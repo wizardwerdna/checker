@@ -1,0 +1,123 @@
+#!/usr/bin/ruby
+require "getoptlong"
+
+def display(playername, players_shown = {}, game = "")
+  return if players_shown[playername] && players_shown[playername][:game] == game
+  puts "=" * 90
+  puts "Reading Poker-Edge Data for '#{playername}'... "
+  puts "-" * 90
+  result = `curl -s http://www.poker-edge.com/whoami.php?name='#{playername.gsub(/ /, "%20")}'`
+  puts "Results for #{playername}:"
+  if result =~ /(Pre-Flop Tend.*\n)/
+    verbose = $1.gsub(/<\/?[^>]*>/, "")
+    if verbose =~ /Pre-Flop Tendency: ([^-]*) -/
+      preflop = $1
+    else
+      preflop = "N/A"
+    end
+    puts verbose
+  else
+    puts "could not get data for this player"
+    puts "=" * 90
+    next
+  end
+  if result =~ /(Player Type.*\n)/
+    verbose = $1.gsub(/<\/?[^>]*>/, "")
+    if verbose =~ /[Yy]ou are a ([^(]* \(.*\))/
+      player_type = $1
+    else
+      player_type = ""
+    end
+    puts verbose
+  else
+    puts "could not get type data for this player"
+    puts "=" * 90
+    next
+  end
+  puts "=" * 90
+  players_shown[playername] = {}
+  players_shown[playername][:updated] = Time.now
+  players_shown[playername][:game] = game
+  players_shown[playername][:information] = preflop
+  players_shown[playername][:information] += " " + player_type unless player_type.empty?
+end
+
+
+def doftfile(file, players_shown)
+  puts "doing ftfile #{file}"
+  players = []
+  game = nil
+  state = :waiting_for_new_game
+  file = File.open(file, "r").each do |line|
+    case state
+    when :waiting_for_new_game
+      if line =~ /Full Tilt Poker Game #([0-9]+)/
+        players = []
+        game = line
+        state = :collecting_players
+      end
+    when :collecting_players
+      if line =~ /Seat [1-9]: ([^(]+) \(/
+        players << $1
+      else
+        state = :waiting_for_new_game
+      end
+    end
+  end
+  puts
+  puts "=" * 90
+  puts game
+  players.each {|each| display(each, players_shown)}
+  puts
+  puts "=" * 75
+  puts "PLAYERS NOW AT THIS TABLE"
+  puts "=" * 75
+  players.each do |each|
+    puts "#{each}: #{players_shown[each]}"
+  end
+  puts "=" * 90
+  puts
+end
+
+def newftfiles(user, player, time)
+  Dir["/Users/#{user}/Documents/HandHistory/#{player}/*"].select{|each| File.mtime(each) > time}
+end
+
+def getftdata(user, player, time, players_shown)
+  puts "Loading Full Tilt hands since #{time} for #{player}"
+  while (files = newftfiles(user, player, time)).empty?
+    sleep 1
+  end
+  files.each {|each| doftfile(each, players_shown)}
+end
+
+opts = GetoptLong.new(
+  [ "--help",     "-h",   GetoptLong::NO_ARGUMENT],
+  [ "--version",  "-v",   GetoptLong::NO_ARGUMENT],
+  [ "--user",     "-u",   GetoptLong::OPTIONAL_ARGUMENT],
+  [ "--player",   "-p",   GetoptLong::OPTIONAL_ARGUMENT]
+)
+
+tableload = false
+user = "werdna"
+player = "wizardwerdna"
+opts.each do |opt, arg|
+  case opt
+  when "--help", "--usage"
+    print "#{$0} playername {--user username} {--player playername} {--help } {--version}\n"
+  when "--version"
+    print "Judi's awesome poker program, version 0.2\n"
+  when "--user"
+    user = arg unless arg.empty?
+  when "--player"
+    tableload = true;
+    player = arg unless arg.empty?
+  end
+end
+
+players_shown = {}
+loop {getftdata(user,player, Time.now, players_shown)} if tableload
+
+$*.each do |playername|
+  display(playername)
+end
