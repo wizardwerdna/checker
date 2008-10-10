@@ -79,6 +79,7 @@ def doftfile(file, players_shown)
   end
   return if last.nil?
   players = last.players
+  return if players.nil?
   puts
   puts "=" * 90
   puts last.game
