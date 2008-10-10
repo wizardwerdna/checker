@@ -91,7 +91,7 @@ def doftfile(file, players_shown)
   printf "%-20s %-14s %s\n", "-"*20, "-"*21, "-"*47
   players.each do |each|
     description = players_shown[each][/\(.*\)/]
-    description |= ""
+    description ||= ""
     description.gsub!("Passive", "P")
     description.gsub!("Aggressive", "A")
     description.gsub!("Tight", "T")
