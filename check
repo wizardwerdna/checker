@@ -1,5 +1,6 @@
 #!/usr/bin/ruby
 require "getoptlong"
+require File.expand_path(File.dirname(__FILE__) + "/FTFile.rb")
 
 def display(playername, players_shown = {})
   return if players_shown[playername]
@@ -42,47 +43,84 @@ end
 
 def doftfile(file, players_shown)
   puts "doing ftfile #{file}"
-  players = []
-  game = nil
-  state = :waiting_for_new_game
-  file = File.open(file, "r").each do |line|
-    case state
-    when :waiting_for_new_game
-      if line =~ /Full Tilt Poker Game #([0-9]+)/
-        players = []
-        game = line
-        state = :collecting_players
-      end
-    when :collecting_players
-      if line =~ /Seat [1-9]: ([^(]+) \(/
-        players << $1
-      else
-        state = :waiting_for_new_game
-      end
+  return if File.directory?(file)
+  this = nil
+  hands = {}
+  vpip = {}
+  pfr = {}
+  sawflop = {}
+  preflop_aggressive = {}
+  postflop_aggressive = {}
+  preflop_passive = {}
+  postflop_passive = {}
+  last = nil
+  FTFile.open(file).each do |handrecord|
+    # puts handrecord.lines
+    last = handrecord
+    next if handrecord.players.nil?
+    handrecord.players.each do |player|
+      hands[player] ||= 0
+      hands[player]+=1
+      vpip[player] ||= 0
+      vpip[player]+=1 if handrecord.vpip? player
+      pfr[player] ||= 0
+      pfr[player]+=1 if handrecord.pfr? player
+      sawflop[player] ||= 0
+      sawflop[player]+=1 if handrecord.sawflop? player
+      preflop_aggressive[player] ||= 0
+      preflop_aggressive[player]+= handrecord.preflop_aggressive player
+      preflop_passive[player] ||= 0
+      preflop_passive[player]+= handrecord.preflop_passive player
+      postflop_aggressive[player] ||= 0
+      postflop_aggressive[player]+= handrecord.postflop_aggressive player
+      postflop_passive[player] ||= 0
+      postflop_passive[player]+= handrecord.postflop_passive  player
     end
   end
+  return if last.nil?
+  players = last.players
   puts
   puts "=" * 90
-  puts game
+  puts last.game
   players.each {|each| display(each, players_shown)}
   puts
-  puts "=" * 75
+  puts "=" * 90
   puts "PLAYERS NOW AT THIS TABLE"
-  puts "=" * 75
+  puts "=" * 90
+  printf "%-20s %3s %4s %4s %5s %s\n", "Screen Name", "Num", "VP$%", "PFR%", "Pre/Pos", "Poker-Edge Description"
+  printf "%-20s %-14s %s\n", "-"*20, "-"*21, "-"*47
   players.each do |each|
-    puts "#{each}: #{players_shown[each]}"
+    description = players_shown[each][/\(.*\)/]
+    description.gsub!("Passive", "P")
+    description.gsub!("Aggressive", "A")
+    description.gsub!("Tight", "T")
+    description.gsub!("Loose", "L")
+    players_shown[each].gsub!(/\(.*\)/, description)
+    printf "%-20s %3d %3d%% %3d%% %2.1f/%2.1f %s\n", each, 
+      hands[each], (100.0 * vpip[each])/hands[each], (100.0 * pfr[each])/hands[each],
+      preflop_passive[each].zero? ? 0.0 : (1.0 * preflop_aggressive[each]) / preflop_passive[each],
+      postflop_passive[each].zero? ? 0.0 : (1.0 * postflop_aggressive[each]) / postflop_passive[each],
+      players_shown[each]
   end
   puts "=" * 90
+  puts "information on #{hands.size} players collected"
+  hands = vpip = pfr = sawflop = preflop_aggressive = preflop_passive = nil
+  GC.start
   puts
 end
 
-def newftfiles(user, player, time)
-  Dir["/Users/#{user}/Documents/HandHistory/#{player}/*"].select{|each| File.mtime(each) > time}
+# def newftfiles(user, player, time)
+#   Dir["/Users/#{user}/Documents/HandHistory/#{player}/*"].select{|each| File.mtime(each) > time}
+# end
+# 
+def newftfiles(user, time)
+  Dir["/Users/#{user}/Documents/HandHistory/**/*"].select{|each| File.mtime(each) > time}
 end
 
-def getftdata(user, player, time, players_shown)
-  puts "Loading Full Tilt hands since #{time} for #{player}"
-  while (files = newftfiles(user, player, time)).empty?
+
+def getftdata(user, time, players_shown)
+  puts "Loading Full Tilt hands since #{time}"
+  while (files = newftfiles(user, time)).empty?
     sleep 1
   end
   files.each {|each| doftfile(each, players_shown)}
@@ -95,26 +133,23 @@ opts = GetoptLong.new(
   [ "--player",   "-p",   GetoptLong::OPTIONAL_ARGUMENT]
 )
 
-tableload = false
-user = "werdna"
+user = `whoami`.chop
 player = "wizardwerdna"
 opts.each do |opt, arg|
   case opt
   when "--help", "--usage"
     print "#{$0} playername {--user username} {--player playername} {--help } {--version}\n"
   when "--version"
-    print "Judi's awesome poker program, version 0.2\n"
+    print "Judi's Awesome Poker Program, version 0.5\n"
   when "--user"
     user = arg unless arg.empty?
   when "--player"
-    tableload = true;
     player = arg unless arg.empty?
   end
 end
 
 players_shown = {}
-loop {getftdata(user,player, Time.now, players_shown)} if tableload
-
+loop {getftdata(user, Time.now, players_shown)} if $*.empty?
 $*.each do |playername|
   display(playername)
 end
