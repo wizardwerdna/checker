@@ -1,7 +1,6 @@
 #!/usr/bin/ruby
 require "getoptlong"
-require "Time"
-require File.expand_path(File.dirname(__FILE__) + "/PSFile.rb")
+require File.expand_path(File.dirname(__FILE__) + "/FTFile.rb")
 
 def display(playername, players_shown = {})
   return if players_shown[playername]
@@ -42,8 +41,8 @@ def display(playername, players_shown = {})
 end
 
 
-def dopsfile(file, players_shown)
-  puts "doing psfile #{file}"
+def doftfile(file, players_shown)
+  puts "doing ftfile #{file}"
   return if File.directory?(file)
   this = nil
   hands = {}
@@ -55,7 +54,7 @@ def dopsfile(file, players_shown)
   preflop_passive = {}
   postflop_passive = {}
   last = nil
-  PSFile.open(file).each do |handrecord|
+  FTFile.open(file).each do |handrecord|
     # puts handrecord.lines
     last = handrecord
     next if handrecord.players.nil?
@@ -112,21 +111,21 @@ def dopsfile(file, players_shown)
   puts
 end
 
-# def newpsfiles(user, player, time)
+# def newftfiles(user, player, time)
 #   Dir["/Users/#{user}/Documents/HandHistory/#{player}/*"].select{|each| File.mtime(each) > time}
 # end
 # 
-def newpsfiles(user, time)
-  Dir["/Users/#{user}/Library/Application Support/PokerStars/HandHistory/**/*"].select{|each| File.mtime(each) > time}
+def newftfiles(user, time)
+  Dir["/Users/#{user}/Documents/HandHistory/**/*"].select{|each| File.mtime(each) > time}
 end
 
 
-def getpsdata(user, time, players_shown)
-  puts "Loading PokerStars hands since #{time}"
-  while (files = newpsfiles(user, time)).empty?
+def getftdata(user, time, players_shown)
+  puts "Loading Full Tilt hands since #{time}"
+  while (files = newftfiles(user, time)).empty?
     sleep 1
   end
-  files.each {|each| dopsfile(each, players_shown)}
+  files.each {|each| doftfile(each, players_shown)}
 end
 
 opts = GetoptLong.new(
@@ -143,7 +142,7 @@ opts.each do |opt, arg|
   when "--help", "--usage"
     print "#{$0} playername {--user username} {--player playername} {--help } {--version}\n"
   when "--version"
-    print "Judi's Awesome Poker Program -- for PokerStars, version 0.6\n"
+    print "Judi's Awesome Poker Program, version 0.5\n"
   when "--user"
     user = arg unless arg.empty?
   when "--player"
@@ -152,7 +151,7 @@ opts.each do |opt, arg|
 end
 
 players_shown = {}
-loop {getpsdata(user, Time.now, players_shown)} if $*.empty?
+loop {getftdata(user, Time.now, players_shown)} if $*.empty?
 $*.each do |playername|
   display(playername)
 end
