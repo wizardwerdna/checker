@@ -189,6 +189,8 @@ class FTHandRecord
     when /Table '(.*)' (.*) Seat #([0-9]+) is the button/
       puts "prelude: button #{$3} on Live Action Table #{$1} (#{$2})" if @noisy
       @stats[:button] = $3.to_i
+    when /(.*) will be allowed to play after the button/
+      puts "prelude: #{$1} will be allowed to play after the button" if @noisy
     else
       raise "unparseable content in prelude: #{line}"
     end
@@ -229,6 +231,8 @@ class FTHandRecord
       puts "#{state}: #{$1} wins #{$10}" if @noisy
     when /(.*): shows \[(.*)\]/
       puts "#{state}: #{$1}shows #{$2}"  if @noisy
+    when /No low hand qualified/
+      puts "#{state}: No low hand qualified." if @noisy
     when /(.*): shows (.*)/
       puts "#{state}: #{$1} shows2 #{$2}" if @noisy
     else        
