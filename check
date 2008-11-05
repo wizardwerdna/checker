@@ -1,6 +1,7 @@
 #!/usr/bin/ruby
 require "getoptlong"
 require "Time"
+require "uri"
 require File.expand_path(File.dirname(__FILE__) + "/PSFile.rb")
 
 def display(playername, players_shown = {})
@@ -8,7 +9,11 @@ def display(playername, players_shown = {})
   puts "=" * 90
   puts "Reading Poker-Edge Data for '#{playername}'... "
   puts "-" * 90
-  result = `curl -s http://www.poker-edge.com/whoami.php?name='#{playername.gsub(/ /, "%20")}'`
+  
+  
+  puts escaped_playername = URI.escape(playername).gsub(/["']/,'\\\\\&')
+  
+  result = `curl -s http://www.poker-edge.com/whoami.php?name=#{escaped_playername}`
   puts "Results for #{playername}:"
   if result =~ /(Pre-Flop Tend.*\n)/
     verbose = $1.gsub(/<\/?[^>]*>/, "")
