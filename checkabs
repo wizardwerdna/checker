@@ -1,0 +1,135 @@
+#!/usr/bin/ruby
+require "getoptlong"
+# require "Time"
+require "uri"
+# require File.expand_path(File.dirname(__FILE__) + "/PSFile.rb")
+
+def display(playername, players_shown = {})
+  return if players_shown[playername]
+  puts "=" * 90
+  puts "Reading Poker-Edge Data for '#{playername}'... "
+  puts "-" * 90
+  
+  
+  puts escaped_playername = URI.escape(playername).gsub(/["']/,'\\\\\&')
+  result = `curl -s http://www.poker-edge.com/whoami.php?name=#{escaped_playername}`
+  puts "Results for #{playername}:"
+  if result =~ /(Pre-Flop Tend.*\n)/
+    verbose = $1.gsub(/<\/?[^>]*>/, "")
+    if verbose =~ /Pre-Flop Tendency: ([^-]*) -/
+      preflop = $1
+    else
+      preflop = "N/A"
+    end
+    puts verbose
+  else
+    puts "could not get data for this player"
+    puts "=" * 90
+    next
+  end
+  if result =~ /(Player Type.*\n)/
+    verbose = $1.gsub(/<\/?[^>]*>/, "")
+    if verbose =~ /[Yy]ou are a ([^(]* \(.*\))/
+      player_type = $1
+    else
+      player_type = ""
+    end
+    puts verbose
+  else
+    puts "could not get type data for this player"
+    puts "=" * 90
+    next
+  end
+  puts "=" * 90
+  players_shown[playername] = preflop
+  players_shown[playername] += " " + player_type unless player_type.empty?
+end
+
+
+def doabsfile(file, players_shown)
+  puts "doing absfile #{file}"
+  return
+  return if File.directory?(file)
+  players = {}
+  AbsoluteFile.open(file).each do |handrecord|
+    handrecord.parse
+    handrecord.reports.keys.each {|each_player| players[each_player] ||= 0; players[each_player]++}
+    last = handrecord
+  end
+  puts
+  puts players.keys.inspect
+  puts
+  # puts
+  # puts "=" * 90
+  # puts last.path
+  # players.each {|each| display(each, players_shown)}
+  # puts
+  # puts "=" * 90
+  # puts "PLAYERS NOW AT THIS TABLE"
+  # puts "=" * 90
+  # printf "%-20s %3s %4s %4s %5s %s\n", "Screen Name", "Num", "VP$%", "PFR%", "Pre/Pos", "Poker-Edge Description"
+  # printf "%-20s %-14s %s\n", "-"*20, "-"*21, "-"*47
+  # players.each do |each|
+  #   description = players_shown[each][/\(.*\)/]
+  #   description ||= ""
+  #   description.gsub!("Passive", "P")
+  #   description.gsub!("Aggressive", "A")
+  #   description.gsub!("Tight", "T")
+  #   description.gsub!("Loose", "L")
+  #   players_shown[each].gsub!(/\(.*\)/, description)
+  #   printf "%-20s %3d %3d%% %3d%% %2.1f/%2.1f %s\n", each, 
+  #     hands[each], (100.0 * vpip[each])/hands[each], (100.0 * pfr[each])/hands[each],
+  #     preflop_passive[each].zero? ? 0.0 : (1.0 * preflop_aggressive[each]) / preflop_passive[each],
+  #     postflop_passive[each].zero? ? 0.0 : (1.0 * postflop_aggressive[each]) / postflop_passive[each],
+  #     players_shown[each]
+  # end
+  # puts "=" * 90
+  # puts "information on #{hands.size} players collected"
+  # hands = vpip = pfr = sawflop = preflop_aggressive = preflop_passive = nil
+  # GC.start
+  # puts
+end
+
+def newabsfiles(user, time)
+  Dir["/Users/#{user}/java_data/HandHistory/**/*"].select{|each| File.mtime(each) > time}
+end
+
+def getabsdata(user, time, players_shown)
+  puts "Loading Absolute Poker HandHistories changed since #{time}"
+  while (files = newabsfiles(user, time)).empty?
+    sleep 1
+  end
+  files.each {|each| doabsfile(each, players_shown)}
+end
+
+opts = GetoptLong.new(
+  [ "--help",     "-h",   GetoptLong::NO_ARGUMENT],
+  [ "--version",  "-v",   GetoptLong::NO_ARGUMENT],
+  [ "--user",     "-u",   GetoptLong::OPTIONAL_ARGUMENT],
+  [ "--player",   "-p",   GetoptLong::OPTIONAL_ARGUMENT]
+)
+
+user = `whoami`.chop
+player = "wizardwerdna"
+opts.each do |opt, arg|
+  case opt
+  when "--help", "--usage"
+    print "#{$0} playername {--user username} {--player playername} {--help } {--version}\n"
+  when "--version"
+    print "Judi's Awesome Poker Program -- for Absolute Poker, version 0.6\n"
+  when "--user"
+    user = arg unless arg.empty?
+  when "--player"
+    player = arg unless arg.empty?
+  end
+end
+
+players_shown = {}
+if $*.empty?
+  getabsdata(user, Time.now - 300, players_shown)
+  loop {getabsdata(user, Time.now, players_shown)}
+else
+  $*.each do |playername|
+    display(playername)
+  end
+end
