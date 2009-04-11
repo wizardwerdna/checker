@@ -2,7 +2,8 @@
 require "getoptlong"
 # require "Time"
 require "uri"
-# require File.expand_path(File.dirname(__FILE__) + "/PSFile.rb")
+require File.expand_path(File.dirname(__FILE__) + "/lib/absolute_file.rb")
+require File.expand_path(File.dirname(__FILE__) + "/lib/absolute_hand_history_parser.rb")
 
 def display(playername, players_shown = {})
   return if players_shown[playername]
@@ -48,12 +49,12 @@ end
 
 def doabsfile(file, players_shown)
   puts "doing absfile #{file}"
-  return
   return if File.directory?(file)
   players = {}
   AbsoluteFile.open(file).each do |handrecord|
+    puts handrecord.inspect
     handrecord.parse
-    handrecord.reports.keys.each {|each_player| players[each_player] ||= 0; players[each_player]++}
+    handrecord.reports.keys.each {|each_player| players[each_player] ||= 0; players[each_player]+=1}
     last = handrecord
   end
   puts

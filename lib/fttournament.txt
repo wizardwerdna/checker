@@ -1,0 +1,2533 @@
+Full Tilt Poker Game #8324791060: $30 + $3 Sit & Go (63340410), Table 1 - 15/30 - No Limit Hold'em - 23:14:15 ET - 2008/10/02
+Seat 1: SuperHungry (1,500)
+Seat 2: joepetto (1,500)
+Seat 3: Rip Diesel (1,500)
+Seat 4: Mr Mike77 (1,500)
+Seat 5: Bad_Beat_Brat (1,500)
+Seat 6: JVizzini (1,500)
+Seat 7: olepops (1,500)
+Seat 8: wizardwerdna (1,500)
+Seat 9: JFUSCALDO (1,500)
+SuperHungry posts the small blind of 15
+joepetto posts the big blind of 30
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [2h Kd]
+Rip Diesel calls 30
+Mr Mike77 calls 30
+Bad_Beat_Brat folds
+JVizzini folds
+olepops calls 30
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry calls 15
+joepetto checks
+*** FLOP *** [Tc 8d 6s]
+SuperHungry checks
+joepetto checks
+Rip Diesel checks
+Mr Mike77 bets 120
+olepops calls 120
+SuperHungry folds
+joepetto folds
+Rip Diesel folds
+*** TURN *** [Tc 8d 6s] [7c]
+Mr Mike77 has 15 seconds left to act
+Mr Mike77 checks
+olepops bets 390
+Mr Mike77 folds
+Uncalled bet of 390 returned to olepops
+olepops mucks
+olepops wins the pot (390)
+*** SUMMARY ***
+Total pot 390 | Rake 0
+Board: [Tc 8d 6s 7c]
+Seat 1: SuperHungry (small blind) folded on the Flop
+Seat 2: joepetto (big blind) folded on the Flop
+Seat 3: Rip Diesel folded on the Flop
+Seat 4: Mr Mike77 folded on the Turn
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops collected (390), mucked
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8324807505: $30 + $3 Sit & Go (63340410), Table 1 - 15/30 - No Limit Hold'em - 23:15:34 ET - 2008/10/02
+Seat 1: SuperHungry (1,470)
+Seat 2: joepetto (1,470)
+Seat 3: Rip Diesel (1,470)
+Seat 4: Mr Mike77 (1,350)
+Seat 5: Bad_Beat_Brat (1,500)
+Seat 6: JVizzini (1,500)
+Seat 7: olepops (1,740)
+Seat 8: wizardwerdna (1,500)
+Seat 9: JFUSCALDO (1,500)
+joepetto posts the small blind of 15
+Rip Diesel posts the big blind of 30
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to wizardwerdna [9h 2c]
+Mr Mike77 folds
+Bad_Beat_Brat folds
+JVizzini folds
+olepops folds
+wizardwerdna has 15 seconds left to act
+wizardwerdna folds
+JFUSCALDO calls 30
+SuperHungry calls 30
+joepetto raises to 150
+Rip Diesel folds
+JFUSCALDO calls 120
+SuperHungry folds
+*** FLOP *** [Qh 7h 8s]
+joepetto bets 360
+JFUSCALDO raises to 1,350, and is all in
+joepetto folds
+Uncalled bet of 990 returned to JFUSCALDO
+JFUSCALDO mucks
+JFUSCALDO wins the pot (1,080)
+*** SUMMARY ***
+Total pot 1,080 | Rake 0
+Board: [Qh 7h 8s]
+Seat 1: SuperHungry (button) folded before the Flop
+Seat 2: joepetto (small blind) folded on the Flop
+Seat 3: Rip Diesel (big blind) folded before the Flop
+Seat 4: Mr Mike77 didn't bet (folded)
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO collected (1,080), mucked
+
+
+
+Full Tilt Poker Game #8324823562: $30 + $3 Sit & Go (63340410), Table 1 - 15/30 - No Limit Hold'em - 23:16:49 ET - 2008/10/02
+Seat 1: SuperHungry (1,440)
+Seat 2: joepetto (960)
+Seat 3: Rip Diesel (1,440)
+Seat 4: Mr Mike77 (1,350)
+Seat 5: Bad_Beat_Brat (1,500)
+Seat 6: JVizzini (1,500)
+Seat 7: olepops (1,740)
+Seat 8: wizardwerdna (1,500)
+Seat 9: JFUSCALDO (2,070)
+Rip Diesel posts the small blind of 15
+Mr Mike77 posts the big blind of 30
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Ts 4s]
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat folds
+JVizzini calls 30
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+joepetto calls 30
+Rip Diesel calls 15
+Mr Mike77 checks
+*** FLOP *** [5s 3c 2h]
+Rip Diesel bets 30
+Mr Mike77 folds
+JVizzini calls 30
+joepetto calls 30
+*** TURN *** [5s 3c 2h] [9h]
+Rip Diesel bets 30
+JVizzini calls 30
+joepetto folds
+*** RIVER *** [5s 3c 2h 9h] [Jd]
+Rip Diesel bets 180
+JVizzini folds
+Uncalled bet of 180 returned to Rip Diesel
+Rip Diesel mucks
+Rip Diesel wins the pot (270)
+*** SUMMARY ***
+Total pot 270 | Rake 0
+Board: [5s 3c 2h 9h Jd]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 2: joepetto (button) folded on the Turn
+Seat 3: Rip Diesel (small blind) collected (270), mucked
+Seat 4: Mr Mike77 (big blind) folded on the Flop
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini folded on the River
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8324835792: $30 + $3 Sit & Go (63340410), Table 1 - 15/30 - No Limit Hold'em - 23:17:48 ET - 2008/10/02
+Seat 1: SuperHungry (1,440)
+Seat 2: joepetto (900)
+Seat 3: Rip Diesel (1,620)
+Seat 4: Mr Mike77 (1,320)
+Seat 5: Bad_Beat_Brat (1,500)
+Seat 6: JVizzini (1,410)
+Seat 7: olepops (1,740)
+Seat 8: wizardwerdna (1,500)
+Seat 9: JFUSCALDO (2,070)
+Mr Mike77 posts the small blind of 15
+Bad_Beat_Brat posts the big blind of 30
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7h 8h]
+JVizzini folds
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+joepetto folds
+Rip Diesel calls 30
+Mr Mike77 has 15 seconds left to act
+Mr Mike77 calls 15
+Bad_Beat_Brat checks
+*** FLOP *** [6d 6s Td]
+Mr Mike77 checks
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat bets 45
+Rip Diesel folds
+Mr Mike77 has 15 seconds left to act
+Mr Mike77 folds
+Uncalled bet of 45 returned to Bad_Beat_Brat
+Bad_Beat_Brat mucks
+Bad_Beat_Brat wins the pot (90)
+*** SUMMARY ***
+Total pot 90 | Rake 0
+Board: [6d 6s Td]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 2: joepetto didn't bet (folded)
+Seat 3: Rip Diesel (button) folded on the Flop
+Seat 4: Mr Mike77 (small blind) folded on the Flop
+Seat 5: Bad_Beat_Brat (big blind) collected (90), mucked
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8324848087: $30 + $3 Sit & Go (63340410), Table 1 - 15/30 - No Limit Hold'em - 23:18:47 ET - 2008/10/02
+Seat 1: SuperHungry (1,440)
+Seat 2: joepetto (900)
+Seat 3: Rip Diesel (1,590)
+Seat 4: Mr Mike77 (1,290)
+Seat 5: Bad_Beat_Brat (1,560)
+Seat 6: JVizzini (1,410)
+Seat 7: olepops (1,740)
+Seat 8: wizardwerdna (1,500)
+Seat 9: JFUSCALDO (2,070)
+Bad_Beat_Brat posts the small blind of 15
+JVizzini posts the big blind of 30
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4s Tc]
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+joepetto folds
+Rip Diesel folds
+Mr Mike77 raises to 90
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat has requested TIME
+Bad_Beat_Brat folds
+JVizzini folds
+Uncalled bet of 60 returned to Mr Mike77
+Mr Mike77 mucks
+Mr Mike77 wins the pot (75)
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: SuperHungry didn't bet (folded)
+Seat 2: joepetto didn't bet (folded)
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 4: Mr Mike77 (button) collected (75), mucked
+Seat 5: Bad_Beat_Brat (small blind) folded before the Flop
+Seat 6: JVizzini (big blind) folded before the Flop
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8324855044: $30 + $3 Sit & Go (63340410), Table 1 - 15/30 - No Limit Hold'em - 23:19:20 ET - 2008/10/02
+Seat 1: SuperHungry (1,440)
+Seat 2: joepetto (900)
+Seat 3: Rip Diesel (1,590)
+Seat 4: Mr Mike77 (1,335)
+Seat 5: Bad_Beat_Brat (1,545)
+Seat 6: JVizzini (1,380)
+Seat 7: olepops (1,740)
+Seat 8: wizardwerdna (1,500)
+Seat 9: JFUSCALDO (2,070)
+JVizzini posts the small blind of 15
+olepops posts the big blind of 30
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Kd 4s]
+wizardwerdna has 15 seconds left to act
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+joepetto folds
+Rip Diesel folds
+Mr Mike77 folds
+Bad_Beat_Brat raises to 90
+JVizzini folds
+olepops calls 60
+*** FLOP *** [6h Kh 3d]
+olepops checks
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat bets 100
+olepops folds
+Uncalled bet of 100 returned to Bad_Beat_Brat
+Bad_Beat_Brat mucks
+Bad_Beat_Brat wins the pot (195)
+*** SUMMARY ***
+Total pot 195 | Rake 0
+Board: [6h Kh 3d]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 2: joepetto didn't bet (folded)
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 4: Mr Mike77 didn't bet (folded)
+Seat 5: Bad_Beat_Brat (button) collected (195), mucked
+Seat 6: JVizzini (small blind) folded before the Flop
+Seat 7: olepops (big blind) folded on the Flop
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8324864793: $30 + $3 Sit & Go (63340410), Table 1 - 15/30 - No Limit Hold'em - 23:20:07 ET - 2008/10/02
+Seat 1: SuperHungry (1,440)
+Seat 2: joepetto (900)
+Seat 3: Rip Diesel (1,590)
+Seat 4: Mr Mike77 (1,335)
+Seat 5: Bad_Beat_Brat (1,650)
+Seat 6: JVizzini (1,365)
+Seat 7: olepops (1,650)
+Seat 8: wizardwerdna (1,500)
+Seat 9: JFUSCALDO (2,070)
+olepops posts the small blind of 15
+wizardwerdna posts the big blind of 30
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7h 5s]
+JFUSCALDO raises to 105
+SuperHungry folds
+joepetto folds
+Rip Diesel folds
+Mr Mike77 folds
+Bad_Beat_Brat folds
+JVizzini folds
+olepops folds
+wizardwerdna folds
+Uncalled bet of 75 returned to JFUSCALDO
+JFUSCALDO mucks
+JFUSCALDO wins the pot (75)
+The blinds are now 20/40
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: SuperHungry didn't bet (folded)
+Seat 2: joepetto didn't bet (folded)
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 4: Mr Mike77 didn't bet (folded)
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini (button) didn't bet (folded)
+Seat 7: olepops (small blind) folded before the Flop
+Seat 8: wizardwerdna (big blind) folded before the Flop
+Seat 9: JFUSCALDO collected (75), mucked
+
+
+
+Full Tilt Poker Game #8324869968: $30 + $3 Sit & Go (63340410), Table 1 - 20/40 - No Limit Hold'em - 23:20:32 ET - 2008/10/02
+Seat 1: SuperHungry (1,440)
+Seat 2: joepetto (900)
+Seat 3: Rip Diesel (1,590)
+Seat 4: Mr Mike77 (1,335)
+Seat 5: Bad_Beat_Brat (1,650)
+Seat 6: JVizzini (1,365)
+Seat 7: olepops (1,635)
+Seat 8: wizardwerdna (1,470)
+Seat 9: JFUSCALDO (2,115)
+wizardwerdna posts the small blind of 20
+JFUSCALDO posts the big blind of 40
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Kh Jh]
+SuperHungry folds
+joepetto folds
+Rip Diesel calls 40
+Mr Mike77 raises to 140
+Bad_Beat_Brat folds
+JVizzini calls 140
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+Rip Diesel calls 100
+*** FLOP *** [2s 4h Ah]
+Rip Diesel checks
+Mr Mike77 bets 320
+JVizzini raises to 1,225, and is all in
+Rip Diesel folds
+Mr Mike77 has 15 seconds left to act
+Mr Mike77 has requested TIME
+Mr Mike77 calls 875, and is all in
+JVizzini shows [Ks As]
+Mr Mike77 shows [Ac Qs]
+Uncalled bet of 30 returned to JVizzini
+*** TURN *** [2s 4h Ah] [7c]
+*** RIVER *** [2s 4h Ah 7c] [3c]
+JVizzini shows a pair of Aces
+Mr Mike77 shows a pair of Aces
+JVizzini wins the pot (2,870) with a pair of Aces
+Mr Mike77 stands up
+*** SUMMARY ***
+Total pot 2,870 | Rake 0
+Board: [2s 4h Ah 7c 3c]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 2: joepetto didn't bet (folded)
+Seat 3: Rip Diesel folded on the Flop
+Seat 4: Mr Mike77 showed [Ac Qs] and lost with a pair of Aces
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini showed [Ks As] and won (2,870) with a pair of Aces
+Seat 7: olepops (button) didn't bet (folded)
+Seat 8: wizardwerdna (small blind) folded before the Flop
+Seat 9: JFUSCALDO (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #8324889421: $30 + $3 Sit & Go (63340410), Table 1 - 20/40 - No Limit Hold'em - 23:22:00 ET - 2008/10/02
+Seat 1: SuperHungry (1,440)
+Seat 2: joepetto (900)
+Seat 3: Rip Diesel (1,450)
+Seat 5: Bad_Beat_Brat (1,650)
+Seat 6: JVizzini (2,900)
+Seat 7: olepops (1,635)
+Seat 8: wizardwerdna (1,450)
+Seat 9: JFUSCALDO (2,075)
+JFUSCALDO posts the small blind of 20
+SuperHungry posts the big blind of 40
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [3d 9c]
+joepetto folds
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini calls 40
+olepops folds
+wizardwerdna folds
+JFUSCALDO calls 20
+SuperHungry checks
+*** FLOP *** [8d Qd 2d]
+JFUSCALDO checks
+SuperHungry checks
+JVizzini checks
+*** TURN *** [8d Qd 2d] [Ks]
+JFUSCALDO bets 120
+SuperHungry folds
+JVizzini folds
+Uncalled bet of 120 returned to JFUSCALDO
+JFUSCALDO mucks
+JFUSCALDO wins the pot (120)
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board: [8d Qd 2d Ks]
+Seat 1: SuperHungry (big blind) folded on the Turn
+Seat 2: joepetto didn't bet (folded)
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini folded on the Turn
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna (button) didn't bet (folded)
+Seat 9: JFUSCALDO (small blind) collected (120), mucked
+
+
+
+Full Tilt Poker Game #8324899257: $30 + $3 Sit & Go (63340410), Table 1 - 20/40 - No Limit Hold'em - 23:22:44 ET - 2008/10/02
+Seat 1: SuperHungry (1,400)
+Seat 2: joepetto (900)
+Seat 3: Rip Diesel (1,450)
+Seat 5: Bad_Beat_Brat (1,650)
+Seat 6: JVizzini (2,860)
+Seat 7: olepops (1,635)
+Seat 8: wizardwerdna (1,450)
+Seat 9: JFUSCALDO (2,155)
+SuperHungry posts the small blind of 20
+joepetto posts the big blind of 40
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [2h 8c]
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini calls 40
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry raises to 160
+joepetto folds
+JVizzini calls 120
+*** FLOP *** [2c 7s 8h]
+SuperHungry checks
+JVizzini checks
+*** TURN *** [2c 7s 8h] [Th]
+SuperHungry checks
+JVizzini bets 80
+SuperHungry calls 80
+*** RIVER *** [2c 7s 8h Th] [3s]
+SuperHungry checks
+JVizzini bets 160
+SuperHungry has 15 seconds left to act
+SuperHungry calls 160
+*** SHOW DOWN ***
+JVizzini shows [As Td] a pair of Tens
+SuperHungry mucks
+JVizzini wins the pot (840) with a pair of Tens
+*** SUMMARY ***
+Total pot 840 | Rake 0
+Board: [2c 7s 8h Th 3s]
+Seat 1: SuperHungry (small blind) mucked [Kc Ah] - Ace King high
+Seat 2: joepetto (big blind) folded before the Flop
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini showed [As Td] and won (840) with a pair of Tens
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8324916347: $30 + $3 Sit & Go (63340410), Table 1 - 20/40 - No Limit Hold'em - 23:23:59 ET - 2008/10/02
+Seat 1: SuperHungry (1,000)
+Seat 2: joepetto (860)
+Seat 3: Rip Diesel (1,450)
+Seat 5: Bad_Beat_Brat (1,650)
+Seat 6: JVizzini (3,300)
+Seat 7: olepops (1,635)
+Seat 8: wizardwerdna (1,450)
+Seat 9: JFUSCALDO (2,155)
+joepetto posts the small blind of 20
+Rip Diesel posts the big blind of 40
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to wizardwerdna [3h 2s]
+Bad_Beat_Brat folds
+JVizzini raises to 120
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+joepetto calls 100
+Rip Diesel calls 80
+*** FLOP *** [Ts 6c 3d]
+joepetto checks
+Rip Diesel checks
+JVizzini checks
+*** TURN *** [Ts 6c 3d] [Th]
+joepetto bets 360
+Rip Diesel has 15 seconds left to act
+Rip Diesel raises to 720
+JVizzini folds
+joepetto has 15 seconds left to act
+joepetto folds
+Uncalled bet of 360 returned to Rip Diesel
+Rip Diesel mucks
+Rip Diesel wins the pot (1,080)
+*** SUMMARY ***
+Total pot 1,080 | Rake 0
+Board: [Ts 6c 3d Th]
+Seat 1: SuperHungry (button) didn't bet (folded)
+Seat 2: joepetto (small blind) folded on the Turn
+Seat 3: Rip Diesel (big blind) collected (1,080), mucked
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini folded on the Turn
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8324932408: $30 + $3 Sit & Go (63340410), Table 1 - 20/40 - No Limit Hold'em - 23:25:11 ET - 2008/10/02
+Seat 1: SuperHungry (1,000)
+Seat 2: joepetto (380)
+Seat 3: Rip Diesel (2,050)
+Seat 5: Bad_Beat_Brat (1,650)
+Seat 6: JVizzini (3,180)
+Seat 7: olepops (1,635)
+Seat 8: wizardwerdna (1,450)
+Seat 9: JFUSCALDO (2,155)
+Rip Diesel posts the small blind of 20
+Bad_Beat_Brat posts the big blind of 40
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4h 2c]
+JVizzini folds
+olepops folds
+wizardwerdna folds
+JFUSCALDO raises to 80
+SuperHungry folds
+joepetto calls 80
+Rip Diesel calls 60
+Bad_Beat_Brat folds
+*** FLOP *** [Ad 4d 5s]
+Rip Diesel checks
+JFUSCALDO bets 280
+joepetto raises to 300, and is all in
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+JFUSCALDO calls 20
+joepetto shows [Qh Ah]
+JFUSCALDO shows [Kh Ac]
+*** TURN *** [Ad 4d 5s] [9s]
+*** RIVER *** [Ad 4d 5s 9s] [Td]
+joepetto shows a pair of Aces
+JFUSCALDO shows a pair of Aces
+JFUSCALDO wins the pot (880) with a pair of Aces
+joepetto stands up
+*** SUMMARY ***
+Total pot 880 | Rake 0
+Board: [Ad 4d 5s 9s Td]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 2: joepetto (button) showed [Qh Ah] and lost with a pair of Aces
+Seat 3: Rip Diesel (small blind) folded on the Flop
+Seat 5: Bad_Beat_Brat (big blind) folded before the Flop
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO showed [Kh Ac] and won (880) with a pair of Aces
+
+
+
+Full Tilt Poker Game #8324943964: $30 + $3 Sit & Go (63340410), Table 1 - 20/40 - No Limit Hold'em - 23:26:03 ET - 2008/10/02
+Seat 1: SuperHungry (1,000)
+Seat 3: Rip Diesel (1,970)
+Seat 5: Bad_Beat_Brat (1,610)
+Seat 6: JVizzini (3,180)
+Seat 7: olepops (1,635)
+Seat 8: wizardwerdna (1,450)
+Seat 9: JFUSCALDO (2,655)
+Bad_Beat_Brat posts the small blind of 20
+JVizzini posts the big blind of 40
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7c As]
+olepops raises to 80
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini calls 40
+*** FLOP *** [8s Td 5d]
+JVizzini checks
+olepops bets 100
+JVizzini calls 100
+*** TURN *** [8s Td 5d] [4s]
+JVizzini checks
+olepops checks
+*** RIVER *** [8s Td 5d 4s] [3h]
+JVizzini bets 160
+olepops calls 160
+*** SHOW DOWN ***
+JVizzini shows [7s 9s] Ten Nine high
+olepops shows [Ah Kc] Ace King high
+olepops wins the pot (700) with Ace King high
+The blinds are now 25/50
+*** SUMMARY ***
+Total pot 700 | Rake 0
+Board: [8s Td 5d 4s 3h]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 3: Rip Diesel (button) didn't bet (folded)
+Seat 5: Bad_Beat_Brat (small blind) folded before the Flop
+Seat 6: JVizzini (big blind) showed [7s 9s] and lost with Ten Nine high
+Seat 7: olepops showed [Ah Kc] and won (700) with Ace King high
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8324954349: $30 + $3 Sit & Go (63340410), Table 1 - 25/50 - No Limit Hold'em - 23:26:51 ET - 2008/10/02
+Seat 1: SuperHungry (1,000)
+Seat 3: Rip Diesel (1,970)
+Seat 5: Bad_Beat_Brat (1,590)
+Seat 6: JVizzini (2,840)
+Seat 7: olepops (1,995)
+Seat 8: wizardwerdna (1,450)
+Seat 9: JFUSCALDO (2,655)
+JVizzini posts the small blind of 25
+olepops posts the big blind of 50
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [3s 9c]
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+Rip Diesel folds
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat raises to 150
+JVizzini calls 125
+olepops calls 100
+*** FLOP *** [8d 3c 3d]
+JVizzini checks
+olepops checks
+Bad_Beat_Brat checks
+*** TURN *** [8d 3c 3d] [5s]
+JVizzini checks
+olepops bets 200
+Bad_Beat_Brat folds
+JVizzini calls 200
+*** RIVER *** [8d 3c 3d 5s] [3h]
+JVizzini checks
+olepops checks
+*** SHOW DOWN ***
+olepops shows [4h 4c] a full house, Threes full of Fours
+JVizzini shows [7s 7c] a full house, Threes full of Sevens
+JVizzini wins the pot (850) with a full house, Threes full of Sevens
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board: [8d 3c 3d 5s 3h]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat (button) folded on the Turn
+Seat 6: JVizzini (small blind) showed [7s 7c] and won (850) with a full house, Threes full of Sevens
+Seat 7: olepops (big blind) showed [4h 4c] and lost with a full house, Threes full of Fours
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8324967263: $30 + $3 Sit & Go (63340410), Table 1 - 25/50 - No Limit Hold'em - 23:27:50 ET - 2008/10/02
+Seat 1: SuperHungry (1,000)
+Seat 3: Rip Diesel (1,970)
+Seat 5: Bad_Beat_Brat (1,440)
+Seat 6: JVizzini (3,340)
+Seat 7: olepops (1,645)
+Seat 8: wizardwerdna (1,450)
+Seat 9: JFUSCALDO (2,655)
+olepops posts the small blind of 25
+wizardwerdna posts the big blind of 50
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7s 7c]
+JFUSCALDO calls 50
+SuperHungry folds
+Rip Diesel calls 50
+Bad_Beat_Brat folds
+JVizzini folds
+olepops calls 25
+wizardwerdna checks
+*** FLOP *** [4d 5c 9c]
+olepops checks
+wizardwerdna bets 120
+JFUSCALDO folds
+Rip Diesel calls 120
+olepops calls 120
+*** TURN *** [4d 5c 9c] [6c]
+olepops checks
+wizardwerdna checks
+Rip Diesel checks
+*** RIVER *** [4d 5c 9c 6c] [Tc]
+olepops checks
+wizardwerdna checks
+Rip Diesel bets 50
+olepops calls 50
+wizardwerdna calls 50
+*** SHOW DOWN ***
+Rip Diesel shows [Ks Qc] a flush, Queen high
+olepops mucks
+wizardwerdna mucks
+Rip Diesel wins the pot (710) with a flush, Queen high
+*** SUMMARY ***
+Total pot 710 | Rake 0
+Board: [4d 5c 9c 6c Tc]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 3: Rip Diesel showed [Ks Qc] and won (710) with a flush, Queen high
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini (button) didn't bet (folded)
+Seat 7: olepops (small blind) mucked [2c 8c] - a flush, Ten high
+Seat 8: wizardwerdna (big blind) mucked [7s 7c] - a flush, Ten high
+Seat 9: JFUSCALDO folded on the Flop
+
+
+
+Full Tilt Poker Game #8324979498: $30 + $3 Sit & Go (63340410), Table 1 - 25/50 - No Limit Hold'em - 23:28:48 ET - 2008/10/02
+Seat 1: SuperHungry (1,000)
+Seat 3: Rip Diesel (2,460)
+Seat 5: Bad_Beat_Brat (1,440)
+Seat 6: JVizzini (3,340)
+Seat 7: olepops (1,425)
+Seat 8: wizardwerdna (1,230)
+Seat 9: JFUSCALDO (2,605)
+wizardwerdna posts the small blind of 25
+JFUSCALDO posts the big blind of 50
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to wizardwerdna [9h 7d]
+SuperHungry folds
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini folds
+olepops folds
+wizardwerdna calls 25
+JFUSCALDO checks
+*** FLOP *** [9d 2c Kc]
+wizardwerdna bets 50
+JFUSCALDO calls 50
+*** TURN *** [9d 2c Kc] [Qh]
+wizardwerdna checks
+JFUSCALDO checks
+*** RIVER *** [9d 2c Kc Qh] [4c]
+wizardwerdna checks
+JFUSCALDO checks
+*** SHOW DOWN ***
+wizardwerdna shows [9h 7d] a pair of Nines
+JFUSCALDO shows [8s Kd] a pair of Kings
+JFUSCALDO wins the pot (200) with a pair of Kings
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board: [9d 2c Kc Qh 4c]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops (button) didn't bet (folded)
+Seat 8: wizardwerdna (small blind) showed [9h 7d] and lost with a pair of Nines
+Seat 9: JFUSCALDO (big blind) showed [8s Kd] and won (200) with a pair of Kings
+
+
+
+Full Tilt Poker Game #8324987632: $30 + $3 Sit & Go (63340410), Table 1 - 25/50 - No Limit Hold'em - 23:29:26 ET - 2008/10/02
+Seat 1: SuperHungry (1,000)
+Seat 3: Rip Diesel (2,460)
+Seat 5: Bad_Beat_Brat (1,440)
+Seat 6: JVizzini (3,340)
+Seat 7: olepops (1,425)
+Seat 8: wizardwerdna (1,130)
+Seat 9: JFUSCALDO (2,705)
+JFUSCALDO posts the small blind of 25
+SuperHungry posts the big blind of 50
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [2h Th]
+Rip Diesel folds
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat raises to 150
+JVizzini calls 150
+olepops folds
+wizardwerdna folds
+JFUSCALDO has 15 seconds left to act
+JFUSCALDO folds
+SuperHungry folds
+*** FLOP *** [Ts Td Kh]
+Bad_Beat_Brat bets 200
+JVizzini folds
+Uncalled bet of 200 returned to Bad_Beat_Brat
+Bad_Beat_Brat mucks
+Bad_Beat_Brat wins the pot (375)
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Board: [Ts Td Kh]
+Seat 1: SuperHungry (big blind) folded before the Flop
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat collected (375), mucked
+Seat 6: JVizzini folded on the Flop
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna (button) didn't bet (folded)
+Seat 9: JFUSCALDO (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #8324995691: $30 + $3 Sit & Go (63340410), Table 1 - 25/50 - No Limit Hold'em - 23:30:04 ET - 2008/10/02
+Seat 1: SuperHungry (950)
+Seat 3: Rip Diesel (2,460)
+Seat 5: Bad_Beat_Brat (1,665)
+Seat 6: JVizzini (3,190)
+Seat 7: olepops (1,425)
+Seat 8: wizardwerdna (1,130)
+Seat 9: JFUSCALDO (2,680)
+SuperHungry posts the small blind of 25
+Rip Diesel posts the big blind of 50
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [As Qs]
+Bad_Beat_Brat folds
+JVizzini raises to 150
+olepops folds
+wizardwerdna has 15 seconds left to act
+wizardwerdna raises to 450
+JFUSCALDO folds
+SuperHungry folds
+Rip Diesel has 15 seconds left to act
+Rip Diesel calls 400
+JVizzini folds
+*** FLOP *** [Qd Jh 3s]
+Rip Diesel checks
+wizardwerdna bets 680, and is all in
+Rip Diesel folds
+Uncalled bet of 680 returned to wizardwerdna
+wizardwerdna mucks
+wizardwerdna wins the pot (1,075)
+*** SUMMARY ***
+Total pot 1,075 | Rake 0
+Board: [Qd Jh 3s]
+Seat 1: SuperHungry (small blind) folded before the Flop
+Seat 3: Rip Diesel (big blind) folded on the Flop
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini folded before the Flop
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna collected (1,075), mucked
+Seat 9: JFUSCALDO (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325009043: $30 + $3 Sit & Go (63340410), Table 1 - 25/50 - No Limit Hold'em - 23:31:08 ET - 2008/10/02
+Seat 1: SuperHungry (925)
+Seat 3: Rip Diesel (2,010)
+Seat 5: Bad_Beat_Brat (1,665)
+Seat 6: JVizzini (3,040)
+Seat 7: olepops (1,425)
+Seat 8: wizardwerdna (1,755)
+Seat 9: JFUSCALDO (2,680)
+Rip Diesel posts the small blind of 25
+Bad_Beat_Brat posts the big blind of 50
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Qc Th]
+JVizzini folds
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+Rip Diesel calls 25
+Bad_Beat_Brat checks
+*** FLOP *** [Jc Ad 5h]
+Rip Diesel checks
+Bad_Beat_Brat bets 50
+Rip Diesel folds
+Uncalled bet of 50 returned to Bad_Beat_Brat
+Bad_Beat_Brat mucks
+Bad_Beat_Brat wins the pot (100)
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Board: [Jc Ad 5h]
+Seat 1: SuperHungry (button) didn't bet (folded)
+Seat 3: Rip Diesel (small blind) folded on the Flop
+Seat 5: Bad_Beat_Brat (big blind) collected (100), mucked
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325016078: $30 + $3 Sit & Go (63340410), Table 1 - 25/50 - No Limit Hold'em - 23:31:42 ET - 2008/10/02
+Seat 1: SuperHungry (925)
+Seat 3: Rip Diesel (1,960)
+Seat 5: Bad_Beat_Brat (1,715)
+Seat 6: JVizzini (3,040)
+Seat 7: olepops (1,425)
+Seat 8: wizardwerdna (1,755)
+Seat 9: JFUSCALDO (2,680)
+Bad_Beat_Brat posts the small blind of 25
+JVizzini posts the big blind of 50
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4d Ks]
+olepops raises to 175
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini folds
+Uncalled bet of 125 returned to olepops
+olepops mucks
+olepops wins the pot (125)
+*** SUMMARY ***
+Total pot 125 | Rake 0
+Seat 1: SuperHungry didn't bet (folded)
+Seat 3: Rip Diesel (button) didn't bet (folded)
+Seat 5: Bad_Beat_Brat (small blind) folded before the Flop
+Seat 6: JVizzini (big blind) folded before the Flop
+Seat 7: olepops collected (125), mucked
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325020448: $30 + $3 Sit & Go (63340410), Table 1 - 25/50 - No Limit Hold'em - 23:32:02 ET - 2008/10/02
+wizardwerdna has been disconnected
+Bad_Beat_Brat has been disconnected
+olepops has been disconnected
+wizardwerdna has reconnected
+Seat 1: SuperHungry (925)
+Seat 3: Rip Diesel (1,960)
+Seat 5: Bad_Beat_Brat (1,690)
+Seat 6: JVizzini (2,990)
+Seat 7: olepops (1,500)
+Seat 8: wizardwerdna (1,755)
+Seat 9: JFUSCALDO (2,680)
+JVizzini posts the small blind of 25
+olepops posts the big blind of 50
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [As 4h]
+wizardwerdna has 15 seconds left to act
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+Rip Diesel has been disconnected
+Rip Diesel has 15 seconds left to act
+Rip Diesel is sitting out
+Rip Diesel has timed out
+Rip Diesel folds
+Bad_Beat_Brat has 15 seconds left to act
+Rip Diesel has returned
+olepops has reconnected
+Rip Diesel has reconnected
+Bad_Beat_Brat is sitting out
+Bad_Beat_Brat has timed out
+Bad_Beat_Brat folds
+JVizzini folds
+Uncalled bet of 25 returned to olepops
+olepops mucks
+olepops wins the pot (50)
+The blinds are now 30/60
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Seat 1: SuperHungry didn't bet (folded)
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat (button) didn't bet (folded)
+Seat 6: JVizzini (small blind) folded before the Flop
+Seat 7: olepops (big blind) collected (50), mucked
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325031366: $30 + $3 Sit & Go (63340410), Table 1 - 30/60 - No Limit Hold'em - 23:33:11 ET - 2008/10/02
+Seat 1: SuperHungry (925)
+Seat 3: Rip Diesel (1,960)
+Seat 5: Bad_Beat_Brat (1,690), is sitting out
+Seat 6: JVizzini (2,965)
+Seat 7: olepops (1,525)
+Seat 8: wizardwerdna (1,755)
+Seat 9: JFUSCALDO (2,680)
+olepops posts the small blind of 30
+wizardwerdna posts the big blind of 60
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Td 7h]
+JFUSCALDO folds
+SuperHungry raises to 180
+Rip Diesel has 15 seconds left to act
+Rip Diesel calls 180
+Bad_Beat_Brat folds
+JVizzini folds
+olepops folds
+Bad_Beat_Brat has reconnected
+wizardwerdna has 15 seconds left to act
+wizardwerdna folds
+*** FLOP *** [Jc 9s Th]
+Bad_Beat_Brat has returned
+SuperHungry has 15 seconds left to act
+SuperHungry bets 300
+Rip Diesel calls 300
+*** TURN *** [Jc 9s Th] [Jd]
+SuperHungry checks
+Rip Diesel checks
+*** RIVER *** [Jc 9s Th Jd] [6c]
+SuperHungry bets 445, and is all in
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+Uncalled bet of 445 returned to SuperHungry
+SuperHungry mucks
+SuperHungry wins the pot (1,050)
+*** SUMMARY ***
+Total pot 1,050 | Rake 0
+Board: [Jc 9s Th Jd 6c]
+Seat 1: SuperHungry collected (1,050), mucked
+Seat 3: Rip Diesel folded on the River
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini (button) didn't bet (folded)
+Seat 7: olepops (small blind) folded before the Flop
+Seat 8: wizardwerdna (big blind) folded before the Flop
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325044665: $30 + $3 Sit & Go (63340410), Table 1 - 30/60 - No Limit Hold'em - 23:34:15 ET - 2008/10/02
+Seat 1: SuperHungry (1,495)
+Seat 3: Rip Diesel (1,480)
+Seat 5: Bad_Beat_Brat (1,690)
+Seat 6: JVizzini (2,965)
+Seat 7: olepops (1,495)
+Seat 8: wizardwerdna (1,695)
+Seat 9: JFUSCALDO (2,680)
+wizardwerdna posts the small blind of 30
+JFUSCALDO posts the big blind of 60
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Td 3c]
+SuperHungry folds
+Rip Diesel folds
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat raises to 180
+JVizzini folds
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+Uncalled bet of 120 returned to Bad_Beat_Brat
+Bad_Beat_Brat mucks
+Bad_Beat_Brat wins the pot (150)
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Seat 1: SuperHungry didn't bet (folded)
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat collected (150), mucked
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops (button) didn't bet (folded)
+Seat 8: wizardwerdna (small blind) folded before the Flop
+Seat 9: JFUSCALDO (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #8325049740: $30 + $3 Sit & Go (63340410), Table 1 - 30/60 - No Limit Hold'em - 23:34:40 ET - 2008/10/02
+Seat 1: SuperHungry (1,495)
+Seat 3: Rip Diesel (1,480)
+Seat 5: Bad_Beat_Brat (1,780)
+Seat 6: JVizzini (2,965)
+Seat 7: olepops (1,495)
+Seat 8: wizardwerdna (1,665)
+Seat 9: JFUSCALDO (2,620)
+JFUSCALDO posts the small blind of 30
+SuperHungry posts the big blind of 60
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [5s Kh]
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini folds
+olepops raises to 120
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry calls 60
+*** FLOP *** [3h 3d Qc]
+SuperHungry checks
+olepops bets 150
+SuperHungry folds
+Uncalled bet of 150 returned to olepops
+olepops mucks
+olepops wins the pot (270)
+*** SUMMARY ***
+Total pot 270 | Rake 0
+Board: [3h 3d Qc]
+Seat 1: SuperHungry (big blind) folded on the Flop
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops collected (270), mucked
+Seat 8: wizardwerdna (button) didn't bet (folded)
+Seat 9: JFUSCALDO (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #8325055943: $30 + $3 Sit & Go (63340410), Table 1 - 30/60 - No Limit Hold'em - 23:35:09 ET - 2008/10/02
+Seat 1: SuperHungry (1,375)
+Seat 3: Rip Diesel (1,480)
+Seat 5: Bad_Beat_Brat (1,780)
+Seat 6: JVizzini (2,965)
+Seat 7: olepops (1,645)
+Seat 8: wizardwerdna (1,665)
+Seat 9: JFUSCALDO (2,590)
+SuperHungry posts the small blind of 30
+Rip Diesel posts the big blind of 60
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4h Jd]
+Bad_Beat_Brat folds
+JVizzini folds
+olepops folds
+wizardwerdna folds
+JFUSCALDO calls 60
+SuperHungry calls 30
+Rip Diesel checks
+*** FLOP *** [Kc Qs Qd]
+SuperHungry checks
+Rip Diesel checks
+JFUSCALDO bets 180
+SuperHungry folds
+Rip Diesel calls 180
+*** TURN *** [Kc Qs Qd] [Ah]
+Rip Diesel checks
+JFUSCALDO checks
+*** RIVER *** [Kc Qs Qd Ah] [2s]
+Rip Diesel has 15 seconds left to act
+Rip Diesel bets 660
+JFUSCALDO calls 660
+*** SHOW DOWN ***
+Rip Diesel shows [Qh 7s] three of a kind, Queens
+JFUSCALDO mucks
+Rip Diesel wins the pot (1,860) with three of a kind, Queens
+*** SUMMARY ***
+Total pot 1,860 | Rake 0
+Board: [Kc Qs Qd Ah 2s]
+Seat 1: SuperHungry (small blind) folded on the Flop
+Seat 3: Rip Diesel (big blind) showed [Qh 7s] and won (1,860) with three of a kind, Queens
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO (button) mucked [As 4c] - two pair, Aces and Queens
+
+
+
+Full Tilt Poker Game #8325067081: $30 + $3 Sit & Go (63340410), Table 1 - 30/60 - No Limit Hold'em - 23:36:03 ET - 2008/10/02
+Seat 1: SuperHungry (1,315)
+Seat 3: Rip Diesel (2,440)
+Seat 5: Bad_Beat_Brat (1,780)
+Seat 6: JVizzini (2,965)
+Seat 7: olepops (1,645)
+Seat 8: wizardwerdna (1,665)
+Seat 9: JFUSCALDO (1,690)
+Rip Diesel posts the small blind of 30
+Bad_Beat_Brat posts the big blind of 60
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Jd 6s]
+JVizzini folds
+olepops raises to 120
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+Rip Diesel calls 90
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat folds
+*** FLOP *** [Th 2c Kd]
+Rip Diesel checks
+olepops bets 150
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+Uncalled bet of 150 returned to olepops
+olepops mucks
+olepops wins the pot (300)
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Board: [Th 2c Kd]
+Seat 1: SuperHungry (button) didn't bet (folded)
+Seat 3: Rip Diesel (small blind) folded on the Flop
+Seat 5: Bad_Beat_Brat (big blind) folded before the Flop
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops collected (300), mucked
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325078153: $30 + $3 Sit & Go (63340410), Table 1 - 30/60 - No Limit Hold'em - 23:36:57 ET - 2008/10/02
+Seat 1: SuperHungry (1,315)
+Seat 3: Rip Diesel (2,320)
+Seat 5: Bad_Beat_Brat (1,720)
+Seat 6: JVizzini (2,965)
+Seat 7: olepops (1,825)
+Seat 8: wizardwerdna (1,665)
+Seat 9: JFUSCALDO (1,690)
+Bad_Beat_Brat posts the small blind of 30
+JVizzini posts the big blind of 60
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Kh 5d]
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+Rip Diesel is sitting out
+Rip Diesel folds
+Bad_Beat_Brat calls 30
+JVizzini checks
+*** FLOP *** [9c 2c 5h]
+Bad_Beat_Brat bets 60
+JVizzini folds
+Uncalled bet of 60 returned to Bad_Beat_Brat
+Bad_Beat_Brat mucks
+Bad_Beat_Brat wins the pot (120)
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board: [9c 2c 5h]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 3: Rip Diesel (button) didn't bet (folded)
+Seat 5: Bad_Beat_Brat (small blind) collected (120), mucked
+Seat 6: JVizzini (big blind) folded on the Flop
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325084978: $30 + $3 Sit & Go (63340410), Table 1 - 30/60 - No Limit Hold'em - 23:37:30 ET - 2008/10/02
+Seat 1: SuperHungry (1,315)
+Seat 3: Rip Diesel (2,320), is sitting out
+Seat 5: Bad_Beat_Brat (1,780)
+Seat 6: JVizzini (2,905)
+Seat 7: olepops (1,825)
+Seat 8: wizardwerdna (1,665)
+Seat 9: JFUSCALDO (1,690)
+JVizzini posts the small blind of 30
+olepops posts the big blind of 60
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4h Kc]
+wizardwerdna folds
+JFUSCALDO folds
+SuperHungry folds
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini calls 30
+olepops checks
+*** FLOP *** [Js Ts Th]
+JVizzini checks
+olepops bets 60
+JVizzini folds
+Uncalled bet of 60 returned to olepops
+olepops mucks
+olepops wins the pot (120)
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board: [Js Ts Th]
+Seat 1: SuperHungry didn't bet (folded)
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat (button) didn't bet (folded)
+Seat 6: JVizzini (small blind) folded on the Flop
+Seat 7: olepops (big blind) collected (120), mucked
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325091247: $30 + $3 Sit & Go (63340410), Table 1 - 30/60 - No Limit Hold'em - 23:38:00 ET - 2008/10/02
+Seat 1: SuperHungry (1,315)
+Seat 3: Rip Diesel (2,320), is sitting out
+Seat 5: Bad_Beat_Brat (1,780)
+Seat 6: JVizzini (2,845)
+Seat 7: olepops (1,885)
+Seat 8: wizardwerdna (1,665)
+Seat 9: JFUSCALDO (1,690)
+olepops posts the small blind of 30
+wizardwerdna posts the big blind of 60
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Kd As]
+JFUSCALDO folds
+SuperHungry raises to 180
+Rip Diesel folds
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat has requested TIME
+Bad_Beat_Brat raises to 360
+JVizzini folds
+Rip Diesel has returned
+olepops folds
+wizardwerdna folds
+SuperHungry calls 180
+*** FLOP *** [Tc 9h 3c]
+SuperHungry has 15 seconds left to act
+SuperHungry bets 360
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat has requested TIME
+Bad_Beat_Brat raises to 720
+SuperHungry has 15 seconds left to act
+SuperHungry raises to 955, and is all in
+Bad_Beat_Brat calls 235
+SuperHungry shows [Jc Jd]
+Bad_Beat_Brat shows [Ah Ac]
+*** TURN *** [Tc 9h 3c] [Td]
+*** RIVER *** [Tc 9h 3c Td] [5s]
+SuperHungry shows two pair, Jacks and Tens
+Bad_Beat_Brat shows two pair, Aces and Tens
+Bad_Beat_Brat wins the pot (2,720) with two pair, Aces and Tens
+SuperHungry stands up
+The blinds are now 40/80
+*** SUMMARY ***
+Total pot 2,720 | Rake 0
+Board: [Tc 9h 3c Td 5s]
+Seat 1: SuperHungry showed [Jc Jd] and lost with two pair, Jacks and Tens
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat showed [Ah Ac] and won (2,720) with two pair, Aces and Tens
+Seat 6: JVizzini (button) didn't bet (folded)
+Seat 7: olepops (small blind) folded before the Flop
+Seat 8: wizardwerdna (big blind) folded before the Flop
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325112026: $30 + $3 Sit & Go (63340410), Table 1 - 40/80 - No Limit Hold'em - 23:39:40 ET - 2008/10/02
+Seat 3: Rip Diesel (2,320)
+Seat 5: Bad_Beat_Brat (3,185)
+Seat 6: JVizzini (2,845)
+Seat 7: olepops (1,855)
+Seat 8: wizardwerdna (1,605)
+Seat 9: JFUSCALDO (1,690)
+wizardwerdna posts the small blind of 40
+JFUSCALDO posts the big blind of 80
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Qh Ts]
+Rip Diesel calls 80
+Bad_Beat_Brat folds
+JVizzini folds
+olepops calls 80
+wizardwerdna calls 40
+JFUSCALDO checks
+*** FLOP *** [Js As 2s]
+wizardwerdna checks
+JFUSCALDO checks
+Rip Diesel checks
+olepops checks
+*** TURN *** [Js As 2s] [Th]
+wizardwerdna checks
+JFUSCALDO checks
+Rip Diesel checks
+olepops checks
+*** RIVER *** [Js As 2s Th] [Qs]
+wizardwerdna has 15 seconds left to act
+wizardwerdna bets 100
+JFUSCALDO folds
+Rip Diesel folds
+olepops folds
+Uncalled bet of 100 returned to wizardwerdna
+wizardwerdna mucks
+wizardwerdna wins the pot (320)
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board: [Js As 2s Th Qs]
+Seat 3: Rip Diesel folded on the River
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops (button) folded on the River
+Seat 8: wizardwerdna (small blind) collected (320), mucked
+Seat 9: JFUSCALDO (big blind) folded on the River
+
+
+
+Full Tilt Poker Game #8325124809: $30 + $3 Sit & Go (63340410), Table 1 - 40/80 - No Limit Hold'em - 23:40:42 ET - 2008/10/02
+Seat 3: Rip Diesel (2,240)
+Seat 5: Bad_Beat_Brat (3,185)
+Seat 6: JVizzini (2,845)
+Seat 7: olepops (1,775)
+Seat 8: wizardwerdna (1,845)
+Seat 9: JFUSCALDO (1,610)
+JFUSCALDO posts the small blind of 40
+Rip Diesel posts the big blind of 80
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4h Ks]
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat has requested TIME
+Bad_Beat_Brat raises to 240
+JVizzini folds
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+Uncalled bet of 160 returned to Bad_Beat_Brat
+Bad_Beat_Brat mucks
+Bad_Beat_Brat wins the pot (200)
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Seat 3: Rip Diesel (big blind) folded before the Flop
+Seat 5: Bad_Beat_Brat collected (200), mucked
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna (button) didn't bet (folded)
+Seat 9: JFUSCALDO (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #8325134295: $30 + $3 Sit & Go (63340410), Table 1 - 40/80 - No Limit Hold'em - 23:41:27 ET - 2008/10/02
+Seat 3: Rip Diesel (2,160)
+Seat 5: Bad_Beat_Brat (3,305)
+Seat 6: JVizzini (2,845)
+Seat 7: olepops (1,775)
+Seat 8: wizardwerdna (1,845)
+Seat 9: JFUSCALDO (1,570)
+Rip Diesel posts the small blind of 40
+Bad_Beat_Brat posts the big blind of 80
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [6s 3d]
+JVizzini folds
+olepops folds
+wizardwerdna folds
+JFUSCALDO calls 80
+Rip Diesel calls 40
+Bad_Beat_Brat checks
+*** FLOP *** [5d Kh Qd]
+Rip Diesel checks
+Bad_Beat_Brat checks
+JFUSCALDO bets 240
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+Bad_Beat_Brat folds
+Uncalled bet of 240 returned to JFUSCALDO
+JFUSCALDO mucks
+JFUSCALDO wins the pot (240)
+*** SUMMARY ***
+Total pot 240 | Rake 0
+Board: [5d Kh Qd]
+Seat 3: Rip Diesel (small blind) folded on the Flop
+Seat 5: Bad_Beat_Brat (big blind) folded on the Flop
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO (button) collected (240), mucked
+
+
+
+Full Tilt Poker Game #8325142168: $30 + $3 Sit & Go (63340410), Table 1 - 40/80 - No Limit Hold'em - 23:42:05 ET - 2008/10/02
+Seat 3: Rip Diesel (2,080)
+Seat 5: Bad_Beat_Brat (3,225)
+Seat 6: JVizzini (2,845)
+Seat 7: olepops (1,775)
+Seat 8: wizardwerdna (1,845)
+Seat 9: JFUSCALDO (1,730)
+Bad_Beat_Brat posts the small blind of 40
+JVizzini posts the big blind of 80
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Jc Qs]
+olepops folds
+wizardwerdna folds
+JFUSCALDO folds
+Rip Diesel folds
+Bad_Beat_Brat folds
+Uncalled bet of 40 returned to JVizzini
+JVizzini shows [Jh 5d] Jack Five high
+JVizzini wins the pot (80)
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Seat 3: Rip Diesel (button) didn't bet (folded)
+Seat 5: Bad_Beat_Brat (small blind) folded before the Flop
+Seat 6: JVizzini (big blind) collected (80)
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325145129: $30 + $3 Sit & Go (63340410), Table 1 - 40/80 - No Limit Hold'em - 23:42:19 ET - 2008/10/02
+Seat 3: Rip Diesel (2,080)
+Seat 5: Bad_Beat_Brat (3,185)
+Seat 6: JVizzini (2,885)
+Seat 7: olepops (1,775)
+Seat 8: wizardwerdna (1,845)
+Seat 9: JFUSCALDO (1,730)
+JVizzini posts the small blind of 40
+olepops posts the big blind of 80
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Td 8s]
+wizardwerdna folds
+JFUSCALDO folds
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini calls 40
+olepops checks
+*** FLOP *** [Ad Kd Kh]
+JVizzini checks
+olepops bets 80
+JVizzini calls 80
+*** TURN *** [Ad Kd Kh] [4s]
+JVizzini checks
+olepops bets 80
+JVizzini calls 80
+*** RIVER *** [Ad Kd Kh 4s] [2h]
+JVizzini checks
+olepops checks
+*** SHOW DOWN ***
+olepops shows [Jd 4h] two pair, Kings and Fours
+JVizzini mucks
+olepops wins the pot (480) with two pair, Kings and Fours
+*** SUMMARY ***
+Total pot 480 | Rake 0
+Board: [Ad Kd Kh 4s 2h]
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat (button) didn't bet (folded)
+Seat 6: JVizzini (small blind) mucked [3h Qh] - a pair of Kings
+Seat 7: olepops (big blind) showed [Jd 4h] and won (480) with two pair, Kings and Fours
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325154036: $30 + $3 Sit & Go (63340410), Table 1 - 40/80 - No Limit Hold'em - 23:43:02 ET - 2008/10/02
+Seat 3: Rip Diesel (2,080)
+Seat 5: Bad_Beat_Brat (3,185)
+Seat 6: JVizzini (2,645)
+Seat 7: olepops (2,015)
+Seat 8: wizardwerdna (1,845)
+Seat 9: JFUSCALDO (1,730)
+olepops posts the small blind of 40
+wizardwerdna posts the big blind of 80
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [8c 9c]
+JFUSCALDO folds
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini folds
+olepops calls 40
+wizardwerdna checks
+*** FLOP *** [9s Kh Js]
+olepops bets 80
+wizardwerdna calls 80
+*** TURN *** [9s Kh Js] [7d]
+olepops checks
+wizardwerdna checks
+*** RIVER *** [9s Kh Js 7d] [7h]
+olepops checks
+wizardwerdna checks
+*** SHOW DOWN ***
+olepops shows [4c 5c] a pair of Sevens
+wizardwerdna shows [8c 9c] two pair, Nines and Sevens
+wizardwerdna wins the pot (320) with two pair, Nines and Sevens
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board: [9s Kh Js 7d 7h]
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini (button) didn't bet (folded)
+Seat 7: olepops (small blind) showed [4c 5c] and lost with a pair of Sevens
+Seat 8: wizardwerdna (big blind) showed [8c 9c] and won (320) with two pair, Nines and Sevens
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325160564: $30 + $3 Sit & Go (63340410), Table 1 - 40/80 - No Limit Hold'em - 23:43:33 ET - 2008/10/02
+Seat 3: Rip Diesel (2,080)
+Seat 5: Bad_Beat_Brat (3,185)
+Seat 6: JVizzini (2,645)
+Seat 7: olepops (1,855)
+Seat 8: wizardwerdna (2,005)
+Seat 9: JFUSCALDO (1,730)
+wizardwerdna posts the small blind of 40
+JFUSCALDO posts the big blind of 80
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Ad 7c]
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini folds
+olepops folds
+wizardwerdna calls 40
+JFUSCALDO checks
+*** FLOP *** [Ac 6s 6d]
+wizardwerdna bets 80
+JFUSCALDO folds
+Uncalled bet of 80 returned to wizardwerdna
+wizardwerdna mucks
+wizardwerdna wins the pot (160)
+*** SUMMARY ***
+Total pot 160 | Rake 0
+Board: [Ac 6s 6d]
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops (button) didn't bet (folded)
+Seat 8: wizardwerdna (small blind) collected (160), mucked
+Seat 9: JFUSCALDO (big blind) folded on the Flop
+
+
+
+Full Tilt Poker Game #8325165102: $30 + $3 Sit & Go (63340410), Table 1 - 40/80 - No Limit Hold'em - 23:43:55 ET - 2008/10/02
+Seat 3: Rip Diesel (2,080)
+Seat 5: Bad_Beat_Brat (3,185)
+Seat 6: JVizzini (2,645)
+Seat 7: olepops (1,855)
+Seat 8: wizardwerdna (2,085)
+Seat 9: JFUSCALDO (1,650)
+JFUSCALDO posts the small blind of 40
+Rip Diesel posts the big blind of 80
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [3h Qc]
+Bad_Beat_Brat folds
+JVizzini folds
+olepops folds
+wizardwerdna folds
+JFUSCALDO calls 40
+Rip Diesel checks
+*** FLOP *** [Kc Ks 7d]
+JFUSCALDO checks
+Rip Diesel has 15 seconds left to act
+Rip Diesel checks
+*** TURN *** [Kc Ks 7d] [4c]
+JFUSCALDO bets 80
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+Uncalled bet of 80 returned to JFUSCALDO
+JFUSCALDO mucks
+JFUSCALDO wins the pot (160)
+The blinds are now 50/100
+*** SUMMARY ***
+Total pot 160 | Rake 0
+Board: [Kc Ks 7d 4c]
+Seat 3: Rip Diesel (big blind) folded on the Turn
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna (button) didn't bet (folded)
+Seat 9: JFUSCALDO (small blind) collected (160), mucked
+
+
+
+Full Tilt Poker Game #8325175187: $30 + $3 Sit & Go (63340410), Table 1 - 50/100 - No Limit Hold'em - 23:44:43 ET - 2008/10/02
+Seat 3: Rip Diesel (2,000)
+Seat 5: Bad_Beat_Brat (3,185)
+Seat 6: JVizzini (2,645)
+Seat 7: olepops (1,855)
+Seat 8: wizardwerdna (2,085)
+Seat 9: JFUSCALDO (1,730)
+Rip Diesel posts the small blind of 50
+Bad_Beat_Brat posts the big blind of 100
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Qh 4c]
+JVizzini folds
+olepops folds
+wizardwerdna folds
+JFUSCALDO raises to 1,730, and is all in
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+Bad_Beat_Brat folds
+Uncalled bet of 1,630 returned to JFUSCALDO
+JFUSCALDO mucks
+JFUSCALDO wins the pot (250)
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 3: Rip Diesel (small blind) folded before the Flop
+Seat 5: Bad_Beat_Brat (big blind) folded before the Flop
+Seat 6: JVizzini didn't bet (folded)
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO (button) collected (250), mucked
+
+
+
+Full Tilt Poker Game #8325180207: $30 + $3 Sit & Go (63340410), Table 1 - 50/100 - No Limit Hold'em - 23:45:07 ET - 2008/10/02
+Seat 3: Rip Diesel (1,950)
+Seat 5: Bad_Beat_Brat (3,085)
+Seat 6: JVizzini (2,645)
+Seat 7: olepops (1,855)
+Seat 8: wizardwerdna (2,085)
+Seat 9: JFUSCALDO (1,880)
+Bad_Beat_Brat posts the small blind of 50
+JVizzini posts the big blind of 100
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Ts Td]
+olepops folds
+wizardwerdna has 15 seconds left to act
+wizardwerdna raises to 250
+JFUSCALDO folds
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini folds
+Uncalled bet of 150 returned to wizardwerdna
+wizardwerdna mucks
+wizardwerdna wins the pot (250)
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 3: Rip Diesel (button) didn't bet (folded)
+Seat 5: Bad_Beat_Brat (small blind) folded before the Flop
+Seat 6: JVizzini (big blind) folded before the Flop
+Seat 7: olepops didn't bet (folded)
+Seat 8: wizardwerdna collected (250), mucked
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325185142: $30 + $3 Sit & Go (63340410), Table 1 - 50/100 - No Limit Hold'em - 23:45:31 ET - 2008/10/02
+Seat 3: Rip Diesel (1,950)
+Seat 5: Bad_Beat_Brat (3,035)
+Seat 6: JVizzini (2,545)
+Seat 7: olepops (1,855)
+Seat 8: wizardwerdna (2,235)
+Seat 9: JFUSCALDO (1,880)
+JVizzini posts the small blind of 50
+olepops posts the big blind of 100
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Jd 2d]
+wizardwerdna folds
+JFUSCALDO folds
+Rip Diesel raises to 200
+Bad_Beat_Brat folds
+JVizzini has 15 seconds left to act
+JVizzini raises to 600
+olepops folds
+Rip Diesel raises to 1,950, and is all in
+JVizzini calls 1,350
+Rip Diesel shows [Kd Kh]
+JVizzini shows [Qh Qs]
+*** FLOP *** [7h Tc 9c]
+*** TURN *** [7h Tc 9c] [8s]
+*** RIVER *** [7h Tc 9c 8s] [Th]
+Rip Diesel shows two pair, Kings and Tens
+JVizzini shows two pair, Queens and Tens
+Rip Diesel wins the pot (4,000) with two pair, Kings and Tens
+*** SUMMARY ***
+Total pot 4,000 | Rake 0
+Board: [7h Tc 9c 8s Th]
+Seat 3: Rip Diesel showed [Kd Kh] and won (4,000) with two pair, Kings and Tens
+Seat 5: Bad_Beat_Brat (button) didn't bet (folded)
+Seat 6: JVizzini (small blind) showed [Qh Qs] and lost with two pair, Queens and Tens
+Seat 7: olepops (big blind) folded before the Flop
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325193786: $30 + $3 Sit & Go (63340410), Table 1 - 50/100 - No Limit Hold'em - 23:46:13 ET - 2008/10/02
+Seat 3: Rip Diesel (4,000)
+Seat 5: Bad_Beat_Brat (3,035)
+Seat 6: JVizzini (595)
+Seat 7: olepops (1,755)
+Seat 8: wizardwerdna (2,235)
+Seat 9: JFUSCALDO (1,880)
+olepops posts the small blind of 50
+wizardwerdna posts the big blind of 100
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [5s Jh]
+JFUSCALDO folds
+Rip Diesel calls 100
+Bad_Beat_Brat folds
+JVizzini folds
+olepops calls 50
+wizardwerdna checks
+*** FLOP *** [9d Ac Tc]
+olepops bets 100
+wizardwerdna folds
+Rip Diesel calls 100
+*** TURN *** [9d Ac Tc] [Qs]
+olepops bets 100
+Rip Diesel raises to 3,800, and is all in
+olepops calls 1,455, and is all in
+Rip Diesel shows [Kh Jd]
+olepops shows [7d Ah]
+Uncalled bet of 2,245 returned to Rip Diesel
+*** RIVER *** [9d Ac Tc Qs] [5d]
+Rip Diesel shows a straight, Ace high
+olepops shows a pair of Aces
+Rip Diesel wins the pot (3,610) with a straight, Ace high
+olepops is sitting out
+olepops stands up
+*** SUMMARY ***
+Total pot 3,610 | Rake 0
+Board: [9d Ac Tc Qs 5d]
+Seat 3: Rip Diesel showed [Kh Jd] and won (3,610) with a straight, Ace high
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini (button) didn't bet (folded)
+Seat 7: olepops (small blind) showed [7d Ah] and lost with a pair of Aces
+Seat 8: wizardwerdna (big blind) folded on the Flop
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325202331: $30 + $3 Sit & Go (63340410), Table 1 - 50/100 - No Limit Hold'em - 23:46:54 ET - 2008/10/02
+Seat 3: Rip Diesel (5,855)
+Seat 5: Bad_Beat_Brat (3,035)
+Seat 6: JVizzini (595)
+Seat 8: wizardwerdna (2,135)
+Seat 9: JFUSCALDO (1,880)
+wizardwerdna posts the small blind of 50
+JFUSCALDO posts the big blind of 100
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Td 9c]
+Rip Diesel calls 100
+Bad_Beat_Brat folds
+JVizzini folds
+wizardwerdna calls 50
+JFUSCALDO checks
+*** FLOP *** [4d 5d 4c]
+wizardwerdna checks
+JFUSCALDO checks
+Rip Diesel checks
+*** TURN *** [4d 5d 4c] [5h]
+wizardwerdna checks
+JFUSCALDO checks
+Rip Diesel has 15 seconds left to act
+Rip Diesel checks
+*** RIVER *** [4d 5d 4c 5h] [6s]
+wizardwerdna checks
+JFUSCALDO checks
+Rip Diesel has 15 seconds left to act
+Rip Diesel checks
+*** SHOW DOWN ***
+wizardwerdna shows [Td 9c] two pair, Fives and Fours
+JFUSCALDO shows [8d Ac] two pair, Fives and Fours
+Rip Diesel mucks
+JFUSCALDO wins the pot (300) with two pair, Fives and Fours
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Board: [4d 5d 4c 5h 6s]
+Seat 3: Rip Diesel mucked [Jh Qd] - two pair, Fives and Fours
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 8: wizardwerdna (small blind) showed [Td 9c] and lost with two pair, Fives and Fours
+Seat 9: JFUSCALDO (big blind) showed [8d Ac] and won (300) with two pair, Fives and Fours
+
+
+
+Full Tilt Poker Game #8325216607: $30 + $3 Sit & Go (63340410), Table 1 - 50/100 - No Limit Hold'em - 23:48:02 ET - 2008/10/02
+Seat 3: Rip Diesel (5,755)
+Seat 5: Bad_Beat_Brat (3,035)
+Seat 6: JVizzini (595)
+Seat 8: wizardwerdna (2,035)
+Seat 9: JFUSCALDO (2,080)
+JFUSCALDO posts the small blind of 50
+Rip Diesel posts the big blind of 100
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [9h 6h]
+Bad_Beat_Brat folds
+JVizzini folds
+wizardwerdna raises to 250
+JFUSCALDO folds
+Rip Diesel has 15 seconds left to act
+Rip Diesel calls 150
+*** FLOP *** [Qd 9c Qc]
+Rip Diesel checks
+wizardwerdna bets 300
+Rip Diesel raises to 5,505, and is all in
+wizardwerdna folds
+Uncalled bet of 5,205 returned to Rip Diesel
+Rip Diesel mucks
+Rip Diesel wins the pot (1,150)
+*** SUMMARY ***
+Total pot 1,150 | Rake 0
+Board: [Qd 9c Qc]
+Seat 3: Rip Diesel (big blind) collected (1,150), mucked
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 8: wizardwerdna (button) folded on the Flop
+Seat 9: JFUSCALDO (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #8325227287: $30 + $3 Sit & Go (63340410), Table 1 - 50/100 - No Limit Hold'em - 23:48:54 ET - 2008/10/02
+Seat 3: Rip Diesel (6,355)
+Seat 5: Bad_Beat_Brat (3,035)
+Seat 6: JVizzini (595)
+Seat 8: wizardwerdna (1,485)
+Seat 9: JFUSCALDO (2,030)
+Rip Diesel posts the small blind of 50
+Bad_Beat_Brat posts the big blind of 100
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Js 5h]
+JVizzini folds
+wizardwerdna folds
+JFUSCALDO has 15 seconds left to act
+JFUSCALDO calls 100
+Rip Diesel calls 50
+Bad_Beat_Brat checks
+*** FLOP *** [4c Qc Qd]
+Rip Diesel checks
+Bad_Beat_Brat checks
+JFUSCALDO checks
+*** TURN *** [4c Qc Qd] [Ad]
+Rip Diesel checks
+Bad_Beat_Brat checks
+JFUSCALDO checks
+*** RIVER *** [4c Qc Qd Ad] [6c]
+Rip Diesel checks
+Bad_Beat_Brat checks
+JFUSCALDO checks
+*** SHOW DOWN ***
+Rip Diesel shows [3d Ts] a pair of Queens
+Bad_Beat_Brat mucks
+JFUSCALDO shows [Kh 6h] two pair, Queens and Sixes
+JFUSCALDO wins the pot (300) with two pair, Queens and Sixes
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Board: [4c Qc Qd Ad 6c]
+Seat 3: Rip Diesel (small blind) showed [3d Ts] and lost with a pair of Queens
+Seat 5: Bad_Beat_Brat (big blind) mucked [3s 8d] - a pair of Queens
+Seat 6: JVizzini didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO (button) showed [Kh 6h] and won (300) with two pair, Queens and Sixes
+
+
+
+Full Tilt Poker Game #8325239583: $30 + $3 Sit & Go (63340410), Table 1 - 50/100 - No Limit Hold'em - 23:49:54 ET - 2008/10/02
+Seat 3: Rip Diesel (6,255)
+Seat 5: Bad_Beat_Brat (2,935)
+Seat 6: JVizzini (595)
+Seat 8: wizardwerdna (1,485)
+Seat 9: JFUSCALDO (2,230)
+Bad_Beat_Brat posts the small blind of 50
+JVizzini posts the big blind of 100
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4c Jc]
+wizardwerdna folds
+JFUSCALDO raises to 200
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini folds
+Uncalled bet of 100 returned to JFUSCALDO
+JFUSCALDO mucks
+JFUSCALDO wins the pot (250)
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 3: Rip Diesel (button) didn't bet (folded)
+Seat 5: Bad_Beat_Brat (small blind) folded before the Flop
+Seat 6: JVizzini (big blind) folded before the Flop
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO collected (250), mucked
+
+
+
+Full Tilt Poker Game #8325243250: $30 + $3 Sit & Go (63340410), Table 1 - 50/100 - No Limit Hold'em - 23:50:12 ET - 2008/10/02
+Seat 3: Rip Diesel (6,255)
+Seat 5: Bad_Beat_Brat (2,885)
+Seat 6: JVizzini (495)
+Seat 8: wizardwerdna (1,485)
+Seat 9: JFUSCALDO (2,380)
+JVizzini posts the small blind of 50
+wizardwerdna posts the big blind of 100
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [6d 3d]
+JFUSCALDO folds
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini calls 50
+wizardwerdna checks
+*** FLOP *** [4s 2h Kh]
+JVizzini checks
+wizardwerdna bets 100
+JVizzini has 15 seconds left to act
+JVizzini folds
+Uncalled bet of 100 returned to wizardwerdna
+wizardwerdna mucks
+wizardwerdna wins the pot (200)
+The blinds are now 60/120
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board: [4s 2h Kh]
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat (button) didn't bet (folded)
+Seat 6: JVizzini (small blind) folded on the Flop
+Seat 8: wizardwerdna (big blind) collected (200), mucked
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325251754: $30 + $3 Sit & Go (63340410), Table 1 - 60/120 - No Limit Hold'em - 23:50:53 ET - 2008/10/02
+Seat 3: Rip Diesel (6,255)
+Seat 5: Bad_Beat_Brat (2,885)
+Seat 6: JVizzini (395)
+Seat 8: wizardwerdna (1,585)
+Seat 9: JFUSCALDO (2,380)
+wizardwerdna posts the small blind of 60
+JFUSCALDO posts the big blind of 120
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Tc 3d]
+Rip Diesel raises to 240
+Bad_Beat_Brat folds
+JVizzini folds
+wizardwerdna folds
+JFUSCALDO calls 120
+*** FLOP *** [3s Qh 3c]
+JFUSCALDO checks
+Rip Diesel checks
+*** TURN *** [3s Qh 3c] [4h]
+JFUSCALDO checks
+Rip Diesel bets 540
+JFUSCALDO folds
+Uncalled bet of 540 returned to Rip Diesel
+Rip Diesel mucks
+Rip Diesel wins the pot (540)
+*** SUMMARY ***
+Total pot 540 | Rake 0
+Board: [3s Qh 3c 4h]
+Seat 3: Rip Diesel collected (540), mucked
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini (button) didn't bet (folded)
+Seat 8: wizardwerdna (small blind) folded before the Flop
+Seat 9: JFUSCALDO (big blind) folded on the Turn
+
+
+
+Full Tilt Poker Game #8325260370: $30 + $3 Sit & Go (63340410), Table 1 - 60/120 - No Limit Hold'em - 23:51:36 ET - 2008/10/02
+Seat 3: Rip Diesel (6,555)
+Seat 5: Bad_Beat_Brat (2,885)
+Seat 6: JVizzini (395)
+Seat 8: wizardwerdna (1,525)
+Seat 9: JFUSCALDO (2,140)
+JFUSCALDO posts the small blind of 60
+Rip Diesel posts the big blind of 120
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7h Qh]
+Bad_Beat_Brat folds
+JVizzini folds
+wizardwerdna folds
+JFUSCALDO calls 60
+Rip Diesel has 15 seconds left to act
+Rip Diesel checks
+*** FLOP *** [6h Js Jc]
+JFUSCALDO checks
+Rip Diesel bets 120
+JFUSCALDO folds
+Uncalled bet of 120 returned to Rip Diesel
+Rip Diesel mucks
+Rip Diesel wins the pot (240)
+*** SUMMARY ***
+Total pot 240 | Rake 0
+Board: [6h Js Jc]
+Seat 3: Rip Diesel (big blind) collected (240), mucked
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 8: wizardwerdna (button) didn't bet (folded)
+Seat 9: JFUSCALDO (small blind) folded on the Flop
+
+
+
+Full Tilt Poker Game #8325268203: $30 + $3 Sit & Go (63340410), Table 1 - 60/120 - No Limit Hold'em - 23:52:14 ET - 2008/10/02
+Seat 3: Rip Diesel (6,675)
+Seat 5: Bad_Beat_Brat (2,885)
+Seat 6: JVizzini (395)
+Seat 8: wizardwerdna (1,525)
+Seat 9: JFUSCALDO (2,020)
+Rip Diesel posts the small blind of 60
+Bad_Beat_Brat posts the big blind of 120
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Td Js]
+JVizzini folds
+wizardwerdna folds
+JFUSCALDO folds
+Rip Diesel raises to 240
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat calls 120
+*** FLOP *** [9h 4s 3h]
+Rip Diesel bets 120
+Bad_Beat_Brat calls 120
+*** TURN *** [9h 4s 3h] [5d]
+Rip Diesel bets 120
+Bad_Beat_Brat calls 120
+*** RIVER *** [9h 4s 3h 5d] [4d]
+Rip Diesel bets 120
+Bad_Beat_Brat has 15 seconds left to act
+Bad_Beat_Brat has requested TIME
+Bad_Beat_Brat calls 120
+*** SHOW DOWN ***
+Rip Diesel shows [2c 2s] two pair, Fours and Twos
+Bad_Beat_Brat mucks
+Rip Diesel wins the pot (1,200) with two pair, Fours and Twos
+*** SUMMARY ***
+Total pot 1,200 | Rake 0
+Board: [9h 4s 3h 5d 4d]
+Seat 3: Rip Diesel (small blind) showed [2c 2s] and won (1,200) with two pair, Fours and Twos
+Seat 5: Bad_Beat_Brat (big blind) mucked [7h Kh] - a pair of Fours
+Seat 6: JVizzini didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325281433: $30 + $3 Sit & Go (63340410), Table 1 - 60/120 - No Limit Hold'em - 23:53:20 ET - 2008/10/02
+Seat 3: Rip Diesel (7,275)
+Seat 5: Bad_Beat_Brat (2,285)
+Seat 6: JVizzini (395)
+Seat 8: wizardwerdna (1,525)
+Seat 9: JFUSCALDO (2,020)
+Bad_Beat_Brat posts the small blind of 60
+JVizzini posts the big blind of 120
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [8s Js]
+wizardwerdna folds
+JFUSCALDO folds
+Rip Diesel calls 120
+Bad_Beat_Brat calls 60
+JVizzini checks
+*** FLOP *** [5s Ts 4h]
+Bad_Beat_Brat checks
+JVizzini bets 275, and is all in
+Rip Diesel folds
+Bad_Beat_Brat folds
+Uncalled bet of 275 returned to JVizzini
+JVizzini mucks
+JVizzini wins the pot (360)
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Board: [5s Ts 4h]
+Seat 3: Rip Diesel (button) folded on the Flop
+Seat 5: Bad_Beat_Brat (small blind) folded on the Flop
+Seat 6: JVizzini (big blind) collected (360), mucked
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325288337: $30 + $3 Sit & Go (63340410), Table 1 - 60/120 - No Limit Hold'em - 23:53:54 ET - 2008/10/02
+Seat 3: Rip Diesel (7,155)
+Seat 5: Bad_Beat_Brat (2,165)
+Seat 6: JVizzini (635)
+Seat 8: wizardwerdna (1,525)
+Seat 9: JFUSCALDO (2,020)
+JVizzini posts the small blind of 60
+wizardwerdna posts the big blind of 120
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Jc 4s]
+JFUSCALDO calls 120
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini raises to 635, and is all in
+wizardwerdna folds
+JFUSCALDO folds
+Uncalled bet of 515 returned to JVizzini
+JVizzini mucks
+JVizzini wins the pot (360)
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Seat 3: Rip Diesel didn't bet (folded)
+Seat 5: Bad_Beat_Brat (button) didn't bet (folded)
+Seat 6: JVizzini (small blind) collected (360), mucked
+Seat 8: wizardwerdna (big blind) folded before the Flop
+Seat 9: JFUSCALDO folded before the Flop
+
+
+
+Full Tilt Poker Game #8325293436: $30 + $3 Sit & Go (63340410), Table 1 - 60/120 - No Limit Hold'em - 23:54:19 ET - 2008/10/02
+Seat 3: Rip Diesel (7,155)
+Seat 5: Bad_Beat_Brat (2,165)
+Seat 6: JVizzini (875)
+Seat 8: wizardwerdna (1,405)
+Seat 9: JFUSCALDO (1,900)
+wizardwerdna posts the small blind of 60
+JFUSCALDO posts the big blind of 120
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4c Ks]
+Rip Diesel calls 120
+Bad_Beat_Brat folds
+JVizzini folds
+wizardwerdna calls 60
+JFUSCALDO checks
+*** FLOP *** [7d 8d Qc]
+wizardwerdna checks
+JFUSCALDO checks
+Rip Diesel bets 120
+wizardwerdna folds
+JFUSCALDO calls 120
+*** TURN *** [7d 8d Qc] [5d]
+JFUSCALDO checks
+Rip Diesel bets 360
+JFUSCALDO calls 360
+*** RIVER *** [7d 8d Qc 5d] [6d]
+JFUSCALDO checks
+Rip Diesel has 15 seconds left to act
+Rip Diesel bets 1,320
+JFUSCALDO folds
+Uncalled bet of 1,320 returned to Rip Diesel
+Rip Diesel shows [6s 6c] three of a kind, Sixes
+Rip Diesel wins the pot (1,320)
+*** SUMMARY ***
+Total pot 1,320 | Rake 0
+Board: [7d 8d Qc 5d 6d]
+Seat 3: Rip Diesel collected (1,320)
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini (button) didn't bet (folded)
+Seat 8: wizardwerdna (small blind) folded on the Flop
+Seat 9: JFUSCALDO (big blind) folded on the River
+
+
+
+Full Tilt Poker Game #8325304604: $30 + $3 Sit & Go (63340410), Table 1 - 60/120 - No Limit Hold'em - 23:55:13 ET - 2008/10/02
+Seat 3: Rip Diesel (7,875)
+Seat 5: Bad_Beat_Brat (2,165)
+Seat 6: JVizzini (875)
+Seat 8: wizardwerdna (1,285)
+Seat 9: JFUSCALDO (1,300)
+JFUSCALDO posts the small blind of 60
+Rip Diesel posts the big blind of 120
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Qh 9s]
+Bad_Beat_Brat folds
+JVizzini folds
+wizardwerdna raises to 300
+JFUSCALDO folds
+Rip Diesel folds
+Uncalled bet of 180 returned to wizardwerdna
+wizardwerdna mucks
+wizardwerdna wins the pot (300)
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Seat 3: Rip Diesel (big blind) folded before the Flop
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 8: wizardwerdna (button) collected (300), mucked
+Seat 9: JFUSCALDO (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #8325309721: $30 + $3 Sit & Go (63340410), Table 1 - 60/120 - No Limit Hold'em - 23:55:38 ET - 2008/10/02
+Seat 3: Rip Diesel (7,755)
+Seat 5: Bad_Beat_Brat (2,165)
+Seat 6: JVizzini (875)
+Seat 8: wizardwerdna (1,465)
+Seat 9: JFUSCALDO (1,240)
+Rip Diesel posts the small blind of 60
+Bad_Beat_Brat posts the big blind of 120
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4s 3h]
+JVizzini folds
+wizardwerdna folds
+JFUSCALDO folds
+Rip Diesel calls 60
+Bad_Beat_Brat checks
+*** FLOP *** [4c 8h 5h]
+Rip Diesel has 15 seconds left to act
+Rip Diesel checks
+Bad_Beat_Brat bets 120
+Rip Diesel has 15 seconds left to act
+Rip Diesel folds
+Uncalled bet of 120 returned to Bad_Beat_Brat
+Bad_Beat_Brat mucks
+Bad_Beat_Brat wins the pot (240)
+The blinds are now 80/160
+*** SUMMARY ***
+Total pot 240 | Rake 0
+Board: [4c 8h 5h]
+Seat 3: Rip Diesel (small blind) folded on the Flop
+Seat 5: Bad_Beat_Brat (big blind) collected (240), mucked
+Seat 6: JVizzini didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+Seat 9: JFUSCALDO (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325318218: $30 + $3 Sit & Go (63340410), Table 1 - 80/160 - No Limit Hold'em - 23:56:20 ET - 2008/10/02
+Seat 3: Rip Diesel (7,635)
+Seat 5: Bad_Beat_Brat (2,285)
+Seat 6: JVizzini (875)
+Seat 8: wizardwerdna (1,465)
+Seat 9: JFUSCALDO (1,240)
+Bad_Beat_Brat posts the small blind of 80
+JVizzini posts the big blind of 160
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Th Ad]
+wizardwerdna has 15 seconds left to act
+wizardwerdna raises to 400
+JFUSCALDO folds
+Rip Diesel folds
+Bad_Beat_Brat folds
+JVizzini folds
+Uncalled bet of 240 returned to wizardwerdna
+wizardwerdna mucks
+wizardwerdna wins the pot (400)
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Seat 3: Rip Diesel (button) didn't bet (folded)
+Seat 5: Bad_Beat_Brat (small blind) folded before the Flop
+Seat 6: JVizzini (big blind) folded before the Flop
+Seat 8: wizardwerdna collected (400), mucked
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325323815: $30 + $3 Sit & Go (63340410), Table 1 - 80/160 - No Limit Hold'em - 23:56:48 ET - 2008/10/02
+Seat 3: Rip Diesel (7,635)
+Seat 5: Bad_Beat_Brat (2,205)
+Seat 6: JVizzini (715)
+Seat 8: wizardwerdna (1,705)
+Seat 9: JFUSCALDO (1,240)
+JVizzini posts the small blind of 80
+wizardwerdna posts the big blind of 160
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Ac Tc]
+JFUSCALDO folds
+Rip Diesel calls 160
+Bad_Beat_Brat folds
+JVizzini folds
+wizardwerdna checks
+*** FLOP *** [4h 3s 2h]
+wizardwerdna checks
+Rip Diesel checks
+*** TURN *** [4h 3s 2h] [2d]
+wizardwerdna checks
+Rip Diesel has 15 seconds left to act
+Rip Diesel checks
+*** RIVER *** [4h 3s 2h 2d] [9h]
+wizardwerdna checks
+Rip Diesel checks
+*** SHOW DOWN ***
+wizardwerdna shows [Ac Tc] a pair of Twos
+Rip Diesel mucks
+wizardwerdna wins the pot (400) with a pair of Twos
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Board: [4h 3s 2h 2d 9h]
+Seat 3: Rip Diesel mucked [Td 7d] - a pair of Twos
+Seat 5: Bad_Beat_Brat (button) didn't bet (folded)
+Seat 6: JVizzini (small blind) folded before the Flop
+Seat 8: wizardwerdna (big blind) showed [Ac Tc] and won (400) with a pair of Twos
+Seat 9: JFUSCALDO didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325333821: $30 + $3 Sit & Go (63340410), Table 1 - 80/160 - No Limit Hold'em - 23:57:37 ET - 2008/10/02
+Seat 3: Rip Diesel (7,475)
+Seat 5: Bad_Beat_Brat (2,205)
+Seat 6: JVizzini (635)
+Seat 8: wizardwerdna (1,945)
+Seat 9: JFUSCALDO (1,240)
+wizardwerdna posts the small blind of 80
+JFUSCALDO posts the big blind of 160
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [5d Ad]
+Rip Diesel calls 160
+Bad_Beat_Brat folds
+JVizzini folds
+wizardwerdna calls 80
+JFUSCALDO checks
+*** FLOP *** [Ts 7d 2s]
+wizardwerdna checks
+JFUSCALDO bets 1,080, and is all in
+Rip Diesel raises to 2,160
+wizardwerdna folds
+Rip Diesel shows [Kc Ks]
+JFUSCALDO shows [Th 8h]
+Uncalled bet of 1,080 returned to Rip Diesel
+*** TURN *** [Ts 7d 2s] [Kh]
+*** RIVER *** [Ts 7d 2s Kh] [5h]
+Rip Diesel shows three of a kind, Kings
+JFUSCALDO shows a pair of Tens
+Rip Diesel wins the pot (2,640) with three of a kind, Kings
+JFUSCALDO stands up
+*** SUMMARY ***
+Total pot 2,640 | Rake 0
+Board: [Ts 7d 2s Kh 5h]
+Seat 3: Rip Diesel showed [Kc Ks] and won (2,640) with three of a kind, Kings
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini (button) didn't bet (folded)
+Seat 8: wizardwerdna (small blind) folded on the Flop
+Seat 9: JFUSCALDO (big blind) showed [Th 8h] and lost with a pair of Tens
+
+
+
+Full Tilt Poker Game #8325340633: $30 + $3 Sit & Go (63340410), Table 1 - 80/160 - No Limit Hold'em - 23:58:10 ET - 2008/10/02
+Seat 3: Rip Diesel (8,875)
+Seat 5: Bad_Beat_Brat (2,205)
+Seat 6: JVizzini (635)
+Seat 8: wizardwerdna (1,785)
+Rip Diesel posts the big blind of 160
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Jc 7s]
+Bad_Beat_Brat folds
+JVizzini folds
+wizardwerdna folds
+Uncalled bet of 160 returned to Rip Diesel
+Rip Diesel mucks
+*** SUMMARY ***
+Total pot 0 | Rake 0
+Seat 3: Rip Diesel (big blind) didn't bet (folded)
+Seat 5: Bad_Beat_Brat didn't bet (folded)
+Seat 6: JVizzini didn't bet (folded)
+Seat 8: wizardwerdna (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325343174: $30 + $3 Sit & Go (63340410), Table 1 - 80/160 - No Limit Hold'em - 23:58:23 ET - 2008/10/02
+Seat 3: Rip Diesel (8,875)
+Seat 5: Bad_Beat_Brat (2,205)
+Seat 6: JVizzini (635)
+Seat 8: wizardwerdna (1,785)
+Rip Diesel posts the small blind of 80
+Bad_Beat_Brat posts the big blind of 160
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Ah 3c]
+JVizzini folds
+wizardwerdna folds
+Rip Diesel calls 80
+Bad_Beat_Brat checks
+*** FLOP *** [Js Qh As]
+Rip Diesel checks
+Bad_Beat_Brat checks
+*** TURN *** [Js Qh As] [2s]
+Rip Diesel checks
+Bad_Beat_Brat checks
+*** RIVER *** [Js Qh As 2s] [2d]
+Rip Diesel checks
+Bad_Beat_Brat checks
+*** SHOW DOWN ***
+Rip Diesel shows [5c 3d] a pair of Twos
+Bad_Beat_Brat shows [6h 5d] a pair of Twos
+Rip Diesel ties for the pot (160) with a pair of Twos
+Bad_Beat_Brat ties for the pot (160) with a pair of Twos
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board: [Js Qh As 2s 2d]
+Seat 3: Rip Diesel (small blind) showed [5c 3d] and won (160) with a pair of Twos
+Seat 5: Bad_Beat_Brat (big blind) showed [6h 5d] and won (160) with a pair of Twos
+Seat 6: JVizzini didn't bet (folded)
+Seat 8: wizardwerdna didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8325351692: $30 + $3 Sit & Go (63340410), Table 1 - 80/160 - No Limit Hold'em - 23:59:04 ET - 2008/10/02
+Seat 3: Rip Diesel (8,875)
+Seat 5: Bad_Beat_Brat (2,205)
+Seat 6: JVizzini (635)
+Seat 8: wizardwerdna (1,785)
+Bad_Beat_Brat posts the small blind of 80
+JVizzini posts the big blind of 160
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7s Ts]
+wizardwerdna folds
+Rip Diesel calls 160
+Bad_Beat_Brat folds
+JVizzini checks
+*** FLOP *** [2d Jh Qs]
+JVizzini checks
+Rip Diesel bets 160
+JVizzini raises to 475, and is all in
+Rip Diesel calls 315
+JVizzini shows [Js 9c]
+Rip Diesel shows [Kd Kc]
+*** TURN *** [2d Jh Qs] [4c]
+*** RIVER *** [2d Jh Qs 4c] [8s]
+JVizzini shows a pair of Jacks
+Rip Diesel shows a pair of Kings
+Rip Diesel wins the pot (1,350) with a pair of Kings
+JVizzini stands up
+*** SUMMARY ***
+Total pot 1,350 | Rake 0
+Board: [2d Jh Qs 4c 8s]
+Seat 3: Rip Diesel (button) showed [Kd Kc] and won (1,350) with a pair of Kings
+Seat 5: Bad_Beat_Brat (small blind) folded before the Flop
+Seat 6: JVizzini (big blind) showed [Js 9c] and lost with a pair of Jacks
+Seat 8: wizardwerdna didn't bet (folded)
+
+
+

@@ -1,0 +1,1431 @@
+Full Tilt Poker Game #8358567089: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 11:52:41 ET - 2008/10/05
+Seat 1: wizardwerdna ($50)
+Seat 2: vlfflqqkr ($35.70)
+Seat 3: BULLON2 ($21.10)
+Seat 4: clock_dollas ($49.65)
+Seat 5: 1mdw977 ($13.95)
+Seat 6: A6615A ($20.90)
+Seat 7: ceapa19frate ($45.55)
+Seat 8: Schrute Beets ($25)
+Seat 9: omuhtar ($49.75)
+BULLON2 posts the small blind of $0.10
+clock_dollas posts the big blind of $0.25
+wizardwerdna posts $0.25
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4d 3c]
+1mdw977 folds
+A6615A folds
+ceapa19frate folds
+Schrute Beets folds
+omuhtar calls $0.25
+wizardwerdna checks
+vlfflqqkr folds
+BULLON2 has 15 seconds left to act
+BULLON2 calls $0.15
+clock_dollas checks
+*** FLOP *** [Kh Tc 3s]
+BULLON2 checks
+clock_dollas checks
+omuhtar bets $1
+wizardwerdna folds
+BULLON2 folds
+clock_dollas folds
+Uncalled bet of $1 returned to omuhtar
+omuhtar mucks
+omuhtar wins the pot ($0.95)
+*** SUMMARY ***
+Total pot $1 | Rake $0.05
+Board: [Kh Tc 3s]
+Seat 1: wizardwerdna folded on the Flop
+Seat 2: vlfflqqkr (button) didn't bet (folded)
+Seat 3: BULLON2 (small blind) folded on the Flop
+Seat 4: clock_dollas (big blind) folded on the Flop
+Seat 5: 1mdw977 didn't bet (folded)
+Seat 6: A6615A didn't bet (folded)
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: Schrute Beets didn't bet (folded)
+Seat 9: omuhtar collected ($0.95), mucked
+
+
+
+Full Tilt Poker Game #8358575202: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 11:53:29 ET - 2008/10/05
+Seat 1: wizardwerdna ($49.75)
+Seat 2: vlfflqqkr ($35.70)
+Seat 3: BULLON2 ($20.85)
+Seat 4: clock_dollas ($49.40)
+Seat 5: 1mdw977 ($13.95)
+Seat 6: A6615A ($20.90)
+Seat 7: ceapa19frate ($45.55)
+Seat 8: Schrute Beets ($25)
+Seat 9: omuhtar ($50.45)
+clock_dollas posts the small blind of $0.10
+1mdw977 posts the big blind of $0.25
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [8h Ks]
+A6615A folds
+ceapa19frate has 15 seconds left to act
+ceapa19frate folds
+Schrute Beets folds
+omuhtar folds
+wizardwerdna has 15 seconds left to act
+wizardwerdna folds
+vlfflqqkr folds
+BULLON2 folds
+clock_dollas raises to $0.75
+1mdw977 calls $0.50
+*** FLOP *** [2s Js Ac]
+clock_dollas has 15 seconds left to act
+clock_dollas bets $1
+1mdw977 calls $1
+*** TURN *** [2s Js Ac] [Th]
+clock_dollas checks
+1mdw977 bets $0.25
+clock_dollas calls $0.25
+*** RIVER *** [2s Js Ac Th] [4d]
+clock_dollas checks
+1mdw977 bets $0.25
+clock_dollas calls $0.25
+*** SHOW DOWN ***
+1mdw977 shows [6s 5s] Ace Jack high
+clock_dollas shows [6d 6h] a pair of Sixes
+clock_dollas wins the pot ($4.30) with a pair of Sixes
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20
+Board: [2s Js Ac Th 4d]
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: vlfflqqkr didn't bet (folded)
+Seat 3: BULLON2 (button) didn't bet (folded)
+Seat 4: clock_dollas (small blind) showed [6d 6h] and won ($4.30) with a pair of Sixes
+Seat 5: 1mdw977 (big blind) showed [6s 5s] and lost with Ace Jack high
+Seat 6: A6615A didn't bet (folded)
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: Schrute Beets didn't bet (folded)
+Seat 9: omuhtar didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8358587995: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 11:54:45 ET - 2008/10/05
+Seat 1: wizardwerdna ($49.75)
+Seat 2: vlfflqqkr ($35.70)
+Seat 3: BULLON2 ($20.85)
+Seat 4: clock_dollas ($51.45)
+Seat 5: 1mdw977 ($11.70)
+Seat 6: A6615A ($20.90)
+Seat 7: ceapa19frate ($45.55)
+Seat 8: Schrute Beets ($25)
+Seat 9: omuhtar ($50.45)
+1mdw977 posts the small blind of $0.10
+A6615A posts the big blind of $0.25
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to wizardwerdna [3c 9d]
+ceapa19frate folds
+Schrute Beets folds
+omuhtar folds
+wizardwerdna folds
+vlfflqqkr folds
+BULLON2 calls $0.25
+clock_dollas folds
+1mdw977 raises to $1
+A6615A calls $0.75
+BULLON2 calls $0.75
+*** FLOP *** [2s Td 4h]
+1mdw977 bets $2.25
+A6615A raises to $4.50
+BULLON2 calls $4.50
+1mdw977 calls $2.25
+*** TURN *** [2s Td 4h] [6d]
+1mdw977 checks
+A6615A checks
+BULLON2 checks
+*** RIVER *** [2s Td 4h 6d] [Ah]
+1mdw977 has 15 seconds left to act
+1mdw977 checks
+A6615A checks
+BULLON2 has 15 seconds left to act
+BULLON2 checks
+*** SHOW DOWN ***
+A6615A shows [Js Jc] a pair of Jacks
+BULLON2 mucks
+1mdw977 mucks
+A6615A wins the pot ($15.70) with a pair of Jacks
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.80
+Board: [2s Td 4h 6d Ah]
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: vlfflqqkr didn't bet (folded)
+Seat 3: BULLON2 mucked [5s 4s] - a pair of Fours
+Seat 4: clock_dollas (button) didn't bet (folded)
+Seat 5: 1mdw977 (small blind) mucked [Jh Ks] - Ace King high
+Seat 6: A6615A (big blind) showed [Js Jc] and won ($15.70) with a pair of Jacks
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: Schrute Beets didn't bet (folded)
+Seat 9: omuhtar didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8358604817: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 11:56:25 ET - 2008/10/05
+Seat 1: wizardwerdna ($49.75)
+Seat 2: vlfflqqkr ($35.70)
+Seat 3: BULLON2 ($15.35)
+Seat 4: clock_dollas ($51.45)
+Seat 5: 1mdw977 ($6.20)
+Seat 6: A6615A ($31.10)
+Seat 7: ceapa19frate ($45.55)
+Seat 8: Schrute Beets ($25)
+Seat 9: omuhtar ($50.45)
+A6615A posts the small blind of $0.10
+ceapa19frate posts the big blind of $0.25
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [8c 3c]
+Schrute Beets folds
+Schrute Beets stands up
+omuhtar raises to $0.85
+wizardwerdna folds
+vlfflqqkr folds
+BULLON2 folds
+clock_dollas folds
+1mdw977 calls $0.85
+A6615A calls $0.75
+ceapa19frate folds
+*** FLOP *** [8h 6s As]
+A6615A checks
+omuhtar bets $2.80
+1mdw977 raises to $5.35, and is all in
+A6615A raises to $5.60
+omuhtar has 15 seconds left to act
+omuhtar folds
+A6615A shows [Ac 6c]
+tatyen adds $50
+1mdw977 shows [Jh 8d]
+Uncalled bet of $0.25 returned to A6615A
+*** TURN *** [8h 6s As] [Jd]
+*** RIVER *** [8h 6s As Jd] [7h]
+A6615A shows two pair, Aces and Sixes
+1mdw977 shows two pair, Jacks and Eights
+A6615A wins the pot ($15.50) with two pair, Aces and Sixes
+1mdw977 is sitting out
+*** SUMMARY ***
+Total pot $16.30 | Rake $0.80
+Board: [8h 6s As Jd 7h]
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: vlfflqqkr didn't bet (folded)
+Seat 3: BULLON2 didn't bet (folded)
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: 1mdw977 (button) showed [Jh 8d] and lost with two pair, Jacks and Eights
+Seat 6: A6615A (small blind) showed [Ac 6c] and won ($15.50) with two pair, Aces and Sixes
+Seat 7: ceapa19frate (big blind) folded before the Flop
+Seat 8: Schrute Beets didn't bet (folded)
+Seat 9: omuhtar folded on the Flop
+
+
+
+Full Tilt Poker Game #8358616675: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 11:57:35 ET - 2008/10/05
+Seat 1: wizardwerdna ($49.75)
+Seat 2: vlfflqqkr ($35.70)
+Seat 3: BULLON2 ($15.35)
+Seat 4: clock_dollas ($51.45)
+Seat 5: 1mdw977 ($0), is sitting out
+Seat 6: A6615A ($40.40)
+Seat 7: ceapa19frate ($45.30)
+Seat 8: tatyen ($50)
+Seat 9: omuhtar ($46.80)
+ceapa19frate posts the small blind of $0.10
+tatyen posts the big blind of $0.25
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4h Jc]
+1mdw977 stands up
+omuhtar calls $0.25
+yjs0626 adds $26
+wizardwerdna has 15 seconds left to act
+wizardwerdna is sitting out
+wizardwerdna has timed out
+wizardwerdna folds
+wizardwerdna has returned
+vlfflqqkr raises to $1.10
+BULLON2 raises to $15.35, and is all in
+clock_dollas folds
+A6615A folds
+ceapa19frate folds
+tatyen folds
+omuhtar folds
+vlfflqqkr has 15 seconds left to act
+vlfflqqkr folds
+Uncalled bet of $14.25 returned to BULLON2
+BULLON2 mucks
+BULLON2 wins the pot ($2.80)
+*** SUMMARY ***
+Total pot $2.80 | Rake $0
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: vlfflqqkr folded before the Flop
+Seat 3: BULLON2 collected ($2.80), mucked
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: 1mdw977 is sitting out
+Seat 6: A6615A (button) didn't bet (folded)
+Seat 7: ceapa19frate (small blind) folded before the Flop
+Seat 8: tatyen (big blind) folded before the Flop
+Seat 9: omuhtar folded before the Flop
+
+
+
+Full Tilt Poker Game #8358626063: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 11:58:30 ET - 2008/10/05
+Seat 1: wizardwerdna ($49.75)
+Seat 2: vlfflqqkr ($34.60)
+Seat 3: BULLON2 ($17.05)
+Seat 4: clock_dollas ($51.45)
+Seat 5: yjs0626 ($26)
+Seat 6: A6615A ($40.40)
+Seat 7: ceapa19frate ($45.20)
+Seat 8: tatyen ($49.75)
+Seat 9: omuhtar ($46.55)
+tatyen posts the small blind of $0.10
+omuhtar posts the big blind of $0.25
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7h Jc]
+wizardwerdna has 15 seconds left to act
+wizardwerdna folds
+vlfflqqkr has 15 seconds left to act
+vlfflqqkr is sitting out
+vlfflqqkr has timed out
+vlfflqqkr folds
+BULLON2 folds
+clock_dollas folds
+A6615A folds
+ceapa19frate has 15 seconds left to act
+ceapa19frate raises to $0.85
+tatyen has 15 seconds left to act
+tatyen raises to $2.25
+omuhtar folds
+ceapa19frate has 15 seconds left to act
+ceapa19frate folds
+Uncalled bet of $1.40 returned to tatyen
+tatyen mucks
+tatyen wins the pot ($1.95)
+*** SUMMARY ***
+Total pot $1.95 | Rake $0
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: vlfflqqkr didn't bet (folded)
+Seat 3: BULLON2 didn't bet (folded)
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 is sitting out
+Seat 6: A6615A didn't bet (folded)
+Seat 7: ceapa19frate (button) folded before the Flop
+Seat 8: tatyen (small blind) collected ($1.95), mucked
+Seat 9: omuhtar (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #8358639209: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 11:59:47 ET - 2008/10/05
+Seat 1: wizardwerdna ($49.75)
+Seat 2: vlfflqqkr ($34.60), is sitting out
+Seat 3: BULLON2 ($17.05)
+Seat 4: clock_dollas ($51.45)
+Seat 5: yjs0626 ($26)
+Seat 6: A6615A ($40.40)
+Seat 7: ceapa19frate ($44.35)
+Seat 8: tatyen ($50.85)
+Seat 9: omuhtar ($46.30)
+omuhtar posts the small blind of $0.10
+wizardwerdna posts the big blind of $0.25
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [5s 2s]
+BULLON2 folds
+clock_dollas folds
+A6615A folds
+ceapa19frate folds
+tatyen folds
+omuhtar has 15 seconds left to act
+omuhtar folds
+Uncalled bet of $0.15 returned to wizardwerdna
+wizardwerdna mucks
+wizardwerdna wins the pot ($0.20)
+*** SUMMARY ***
+Total pot $0.20 | Rake $0
+Seat 1: wizardwerdna (big blind) collected ($0.20), mucked
+Seat 2: vlfflqqkr is sitting out
+Seat 3: BULLON2 didn't bet (folded)
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 is sitting out
+Seat 6: A6615A didn't bet (folded)
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: tatyen (button) didn't bet (folded)
+Seat 9: omuhtar (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #8358643825: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:00:15 ET - 2008/10/05
+Seat 1: wizardwerdna ($49.85)
+Seat 2: vlfflqqkr ($34.60), is sitting out
+Seat 3: BULLON2 ($17.05)
+Seat 4: clock_dollas ($51.45)
+Seat 5: yjs0626 ($26)
+Seat 6: A6615A ($40.40)
+Seat 7: ceapa19frate ($44.35)
+Seat 8: tatyen ($50.85)
+Seat 9: omuhtar ($46.20)
+wizardwerdna posts the small blind of $0.10
+BULLON2 posts the big blind of $0.25
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Jd 2c]
+clock_dollas folds
+A6615A calls $0.25
+vlfflqqkr has returned
+ceapa19frate has 15 seconds left to act
+ceapa19frate raises to $1.10
+tatyen folds
+omuhtar has 15 seconds left to act
+omuhtar folds
+wizardwerdna folds
+BULLON2 calls $0.85
+A6615A folds
+*** FLOP *** [7s 3c Kh]
+BULLON2 bets $0.75
+ceapa19frate has 15 seconds left to act
+ceapa19frate raises to $2
+BULLON2 folds
+Uncalled bet of $1.25 returned to ceapa19frate
+ceapa19frate mucks
+ceapa19frate wins the pot ($3.85)
+*** SUMMARY ***
+Total pot $4.05 | Rake $0.20
+Board: [7s 3c Kh]
+Seat 1: wizardwerdna (small blind) folded before the Flop
+Seat 2: vlfflqqkr is sitting out
+Seat 3: BULLON2 (big blind) folded on the Flop
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 is sitting out
+Seat 6: A6615A folded before the Flop
+Seat 7: ceapa19frate collected ($3.85), mucked
+Seat 8: tatyen didn't bet (folded)
+Seat 9: omuhtar (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8358655742: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:01:25 ET - 2008/10/05
+Seat 1: wizardwerdna ($49.75)
+Seat 2: vlfflqqkr ($34.60)
+Seat 3: BULLON2 ($15.20)
+Seat 4: clock_dollas ($51.45)
+Seat 5: yjs0626 ($26)
+Seat 6: A6615A ($40.15)
+Seat 7: ceapa19frate ($46.35)
+Seat 8: tatyen ($50.85)
+Seat 9: omuhtar ($46.20)
+BULLON2 posts the small blind of $0.10
+clock_dollas posts the big blind of $0.25
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to wizardwerdna [8d Ah]
+A6615A folds
+ceapa19frate folds
+tatyen folds
+omuhtar calls $0.25
+wizardwerdna raises to $0.60
+BULLON2 calls $0.50
+clock_dollas has 15 seconds left to act
+clock_dollas folds
+omuhtar calls $0.35
+*** FLOP *** [5s 8s 3h]
+BULLON2 checks
+omuhtar checks
+wizardwerdna bets $1.50
+BULLON2 folds
+omuhtar folds
+Uncalled bet of $1.50 returned to wizardwerdna
+wizardwerdna mucks
+wizardwerdna wins the pot ($1.95)
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.10
+Board: [5s 8s 3h]
+Seat 1: wizardwerdna (button) collected ($1.95), mucked
+Seat 2: vlfflqqkr is sitting out
+Seat 3: BULLON2 (small blind) folded on the Flop
+Seat 4: clock_dollas (big blind) folded before the Flop
+Seat 5: yjs0626 is sitting out
+Seat 6: A6615A didn't bet (folded)
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: tatyen didn't bet (folded)
+Seat 9: omuhtar folded on the Flop
+
+
+
+Full Tilt Poker Game #8358666879: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:02:31 ET - 2008/10/05
+Seat 1: wizardwerdna ($51.10)
+Seat 2: vlfflqqkr ($34.60)
+Seat 3: BULLON2 ($14.60)
+Seat 4: clock_dollas ($51.20)
+Seat 5: yjs0626 ($26)
+Seat 6: A6615A ($40.15)
+Seat 7: ceapa19frate ($46.35)
+Seat 8: tatyen ($50.85)
+Seat 9: omuhtar ($45.60)
+clock_dollas posts the small blind of $0.10
+yjs0626 posts the big blind of $0.25
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [9s 2h]
+A6615A calls $0.25
+ceapa19frate folds
+tatyen folds
+omuhtar folds
+wizardwerdna folds
+BULLON2 folds
+clock_dollas calls $0.15
+yjs0626 checks
+*** FLOP *** [3c 4s As]
+clock_dollas checks
+yjs0626 bets $0.50
+A6615A calls $0.50
+clock_dollas folds
+*** TURN *** [3c 4s As] [3h]
+yjs0626 bets $1
+A6615A raises to $2
+yjs0626 calls $1
+*** RIVER *** [3c 4s As 3h] [7h]
+yjs0626 checks
+A6615A checks
+*** SHOW DOWN ***
+A6615A shows [Ac 6c] two pair, Aces and Threes
+yjs0626 shows [2s Ad] two pair, Aces and Threes
+yjs0626 ties for the pot ($2.75) with two pair, Aces and Threes
+A6615A ties for the pot ($2.75) with two pair, Aces and Threes
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25
+Board: [3c 4s As 3h 7h]
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: vlfflqqkr is sitting out
+Seat 3: BULLON2 (button) didn't bet (folded)
+Seat 4: clock_dollas (small blind) folded on the Flop
+Seat 5: yjs0626 (big blind) showed [2s Ad] and won ($2.75) with two pair, Aces and Threes
+Seat 6: A6615A showed [Ac 6c] and won ($2.75) with two pair, Aces and Threes
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: tatyen didn't bet (folded)
+Seat 9: omuhtar didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8358676187: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:03:26 ET - 2008/10/05
+Seat 1: wizardwerdna ($51.10)
+Seat 2: vlfflqqkr ($34.60)
+Seat 3: BULLON2 ($14.60)
+Seat 4: clock_dollas ($50.95)
+Seat 5: yjs0626 ($26)
+Seat 6: A6615A ($40.15)
+Seat 7: ceapa19frate ($46.35)
+Seat 8: tatyen ($50.85)
+Seat 9: omuhtar ($45.60)
+yjs0626 posts the small blind of $0.10
+A6615A posts the big blind of $0.25
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Ts Js]
+ceapa19frate folds
+tatyen has been disconnected
+tatyen has reconnected
+tatyen has 15 seconds left to act
+tatyen raises to $0.75
+omuhtar has 15 seconds left to act
+omuhtar folds
+wizardwerdna calls $0.75
+BULLON2 calls $0.75
+clock_dollas has 15 seconds left to act
+clock_dollas folds
+yjs0626 folds
+A6615A folds
+*** FLOP *** [9s 9d 6c]
+tatyen checks
+wizardwerdna has 15 seconds left to act
+wizardwerdna checks
+BULLON2 bets $13.85, and is all in
+tatyen folds
+wizardwerdna folds
+Uncalled bet of $13.85 returned to BULLON2
+BULLON2 mucks
+BULLON2 wins the pot ($2.50)
+BULLON2 has been disconnected
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10
+Board: [9s 9d 6c]
+Seat 1: wizardwerdna folded on the Flop
+Seat 2: vlfflqqkr is sitting out
+Seat 3: BULLON2 collected ($2.50), mucked
+Seat 4: clock_dollas (button) didn't bet (folded)
+Seat 5: yjs0626 (small blind) folded before the Flop
+Seat 6: A6615A (big blind) folded before the Flop
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: tatyen folded on the Flop
+Seat 9: omuhtar didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8358689356: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:04:43 ET - 2008/10/05
+Seat 1: wizardwerdna ($50.35)
+Seat 2: vlfflqqkr ($34.60)
+Seat 3: BULLON2 ($16.35)
+Seat 4: clock_dollas ($50.95)
+Seat 5: yjs0626 ($25.90)
+Seat 6: A6615A ($39.90)
+Seat 7: ceapa19frate ($46.35)
+Seat 8: tatyen ($50.10)
+Seat 9: omuhtar ($45.60)
+A6615A posts the small blind of $0.10
+ceapa19frate posts the big blind of $0.25
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [9s Ts]
+tatyen raises to $0.85
+omuhtar folds
+wizardwerdna calls $0.85
+BULLON2 has reconnected
+BULLON2 folds
+clock_dollas folds
+yjs0626 folds
+A6615A calls $0.75
+ceapa19frate folds
+*** FLOP *** [Qh 5s 8c]
+A6615A checks
+tatyen has 15 seconds left to act
+tatyen bets $2
+wizardwerdna folds
+A6615A calls $2
+*** TURN *** [Qh 5s 8c] [Js]
+A6615A checks
+tatyen has 15 seconds left to act
+tatyen bets $3.25
+A6615A calls $3.25
+*** RIVER *** [Qh 5s 8c Js] [Qd]
+A6615A has 15 seconds left to act
+A6615A bets $6
+tatyen has 15 seconds left to act
+tatyen has requested TIME
+tatyen folds
+Uncalled bet of $6 returned to A6615A
+A6615A mucks
+A6615A wins the pot ($12.65)
+*** SUMMARY ***
+Total pot $13.30 | Rake $0.65
+Board: [Qh 5s 8c Js Qd]
+Seat 1: wizardwerdna folded on the Flop
+Seat 2: vlfflqqkr is sitting out
+Seat 3: BULLON2 didn't bet (folded)
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 (button) didn't bet (folded)
+Seat 6: A6615A (small blind) collected ($12.65), mucked
+Seat 7: ceapa19frate (big blind) folded before the Flop
+Seat 8: tatyen folded on the River
+Seat 9: omuhtar didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8358707128: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:06:28 ET - 2008/10/05
+Seat 1: wizardwerdna ($49.50)
+Seat 2: vlfflqqkr ($34.60)
+Seat 3: BULLON2 ($16.35)
+Seat 4: clock_dollas ($50.95)
+Seat 5: yjs0626 ($25.90)
+Seat 6: A6615A ($46.45)
+Seat 7: ceapa19frate ($46.10)
+Seat 8: tatyen ($44)
+Seat 9: omuhtar ($45.60)
+ceapa19frate posts the small blind of $0.10
+tatyen posts the big blind of $0.25
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [3h Ad]
+omuhtar calls $0.25
+vlfflqqkr stands up
+wizardwerdna has 15 seconds left to act
+wizardwerdna folds
+BULLON2 folds
+clock_dollas folds
+yjs0626 calls $0.25
+A6615A calls $0.25
+ceapa19frate folds
+tatyen checks
+*** FLOP *** [Jd Kh 3c]
+tatyen checks
+omuhtar checks
+yjs0626 checks
+A6615A bets $1
+tatyen folds
+omuhtar folds
+yjs0626 folds
+Uncalled bet of $1 returned to A6615A
+A6615A mucks
+A6615A wins the pot ($1.05)
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05
+Board: [Jd Kh 3c]
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: vlfflqqkr is sitting out
+Seat 3: BULLON2 didn't bet (folded)
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 folded on the Flop
+Seat 6: A6615A (button) collected ($1.05), mucked
+Seat 7: ceapa19frate (small blind) folded before the Flop
+Seat 8: tatyen (big blind) folded on the Flop
+Seat 9: omuhtar folded on the Flop
+
+
+
+Full Tilt Poker Game #8358716200: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:07:21 ET - 2008/10/05
+Seat 1: wizardwerdna ($49.50)
+Seat 3: BULLON2 ($16.35)
+Seat 4: clock_dollas ($50.95)
+Seat 5: yjs0626 ($25.65)
+Seat 6: A6615A ($47.25)
+Seat 7: ceapa19frate ($46)
+Seat 8: tatyen ($43.75)
+Seat 9: omuhtar ($45.35)
+tatyen posts the small blind of $0.10
+omuhtar posts the big blind of $0.25
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Qh Qd]
+mmarce3 sits down
+wizardwerdna has 15 seconds left to act
+wizardwerdna raises to $0.60
+mmarce3 adds $13
+BULLON2 has 15 seconds left to act
+BULLON2 calls $0.60
+clock_dollas folds
+yjs0626 folds
+A6615A calls $0.60
+ceapa19frate has 15 seconds left to act
+ceapa19frate calls $0.60
+tatyen folds
+omuhtar calls $0.35
+*** FLOP *** [4h 5d 7s]
+omuhtar checks
+wizardwerdna bets $3
+BULLON2 folds
+A6615A folds
+ceapa19frate folds
+omuhtar calls $3
+*** TURN *** [4h 5d 7s] [3s]
+omuhtar checks
+wizardwerdna checks
+*** RIVER *** [4h 5d 7s 3s] [2c]
+omuhtar bets $9.10
+wizardwerdna has 15 seconds left to act
+wizardwerdna folds
+Uncalled bet of $9.10 returned to omuhtar
+omuhtar mucks
+omuhtar wins the pot ($8.65)
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.45
+Board: [4h 5d 7s 3s 2c]
+Seat 1: wizardwerdna folded on the River
+Seat 3: BULLON2 folded on the Flop
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 didn't bet (folded)
+Seat 6: A6615A folded on the Flop
+Seat 7: ceapa19frate (button) folded on the Flop
+Seat 8: tatyen (small blind) folded before the Flop
+Seat 9: omuhtar (big blind) collected ($8.65), mucked
+
+
+
+Full Tilt Poker Game #8358732846: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:09:00 ET - 2008/10/05
+Seat 1: wizardwerdna ($45.90)
+Seat 2: mmarce3 ($13)
+Seat 3: BULLON2 ($15.75)
+Seat 4: clock_dollas ($50.95)
+Seat 5: yjs0626 ($25.65)
+Seat 6: A6615A ($46.65)
+Seat 7: ceapa19frate ($45.40)
+Seat 8: tatyen ($43.65)
+Seat 9: omuhtar ($50.40)
+omuhtar posts the small blind of $0.10
+wizardwerdna posts the big blind of $0.25
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [8s Th]
+BULLON2 folds
+clock_dollas folds
+yjs0626 raises to $1
+A6615A folds
+ceapa19frate folds
+tatyen folds
+omuhtar folds
+wizardwerdna folds
+Uncalled bet of $0.75 returned to yjs0626
+yjs0626 mucks
+yjs0626 wins the pot ($0.60)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0
+Seat 1: wizardwerdna (big blind) folded before the Flop
+Seat 2: mmarce3 is sitting out
+Seat 3: BULLON2 didn't bet (folded)
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 collected ($0.60), mucked
+Seat 6: A6615A didn't bet (folded)
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: tatyen (button) didn't bet (folded)
+Seat 9: omuhtar (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #8358737451: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:09:27 ET - 2008/10/05
+Seat 1: wizardwerdna ($45.65)
+Seat 2: mmarce3 ($13)
+Seat 3: BULLON2 ($15.75)
+Seat 4: clock_dollas ($50.95)
+Seat 5: yjs0626 ($26)
+Seat 6: A6615A ($46.65)
+Seat 7: ceapa19frate ($45.40)
+Seat 8: tatyen ($43.65)
+Seat 9: omuhtar ($50.30)
+wizardwerdna posts the small blind of $0.10
+mmarce3 posts the big blind of $0.25
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to wizardwerdna [6c Qc]
+BULLON2 has 15 seconds left to act
+BULLON2 raises to $1
+clock_dollas folds
+yjs0626 raises to $3
+A6615A folds
+ceapa19frate folds
+tatyen adds $6.35
+tatyen folds
+omuhtar folds
+wizardwerdna folds
+mmarce3 folds
+BULLON2 calls $2
+*** FLOP *** [9h 3s 4c]
+BULLON2 checks
+yjs0626 checks
+*** TURN *** [9h 3s 4c] [9s]
+BULLON2 bets $3.50
+yjs0626 folds
+Uncalled bet of $3.50 returned to BULLON2
+BULLON2 mucks
+BULLON2 wins the pot ($6.05)
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30
+Board: [9h 3s 4c 9s]
+Seat 1: wizardwerdna (small blind) folded before the Flop
+Seat 2: mmarce3 (big blind) folded before the Flop
+Seat 3: BULLON2 collected ($6.05), mucked
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 folded on the Turn
+Seat 6: A6615A didn't bet (folded)
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: tatyen didn't bet (folded)
+Seat 9: omuhtar (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #8358748499: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:10:32 ET - 2008/10/05
+Seat 1: wizardwerdna ($45.55)
+Seat 2: mmarce3 ($12.75)
+Seat 3: BULLON2 ($18.80)
+Seat 4: clock_dollas ($50.95)
+Seat 5: yjs0626 ($23)
+Seat 6: A6615A ($46.65)
+Seat 7: ceapa19frate ($45.40)
+Seat 8: tatyen ($50)
+Seat 9: omuhtar ($50.30)
+mmarce3 posts the small blind of $0.10
+BULLON2 posts the big blind of $0.25
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Ac 3h]
+clock_dollas folds
+yjs0626 adds $4
+yjs0626 folds
+A6615A folds
+ceapa19frate folds
+tatyen folds
+omuhtar calls $0.25
+wizardwerdna folds
+mmarce3 calls $0.15
+BULLON2 checks
+*** FLOP *** [8s Qd 5h]
+mmarce3 checks
+BULLON2 checks
+omuhtar checks
+*** TURN *** [8s Qd 5h] [Jh]
+mmarce3 checks
+BULLON2 checks
+omuhtar bets $0.25
+mmarce3 folds
+BULLON2 has 15 seconds left to act
+BULLON2 calls $0.25
+*** RIVER *** [8s Qd 5h Jh] [Kh]
+BULLON2 checks
+omuhtar has been disconnected
+omuhtar has 15 seconds left to act
+omuhtar has 90 seconds to reconnect
+omuhtar has timed out
+omuhtar checks
+*** SHOW DOWN ***
+omuhtar shows [Td 9d] a straight, King high
+BULLON2 mucks
+omuhtar wins the pot ($1.20) with a straight, King high
+omuhtar is sitting out
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05
+Board: [8s Qd 5h Jh Kh]
+Seat 1: wizardwerdna (button) didn't bet (folded)
+Seat 2: mmarce3 (small blind) folded on the Turn
+Seat 3: BULLON2 (big blind) mucked [4d 8h] - a pair of Eights
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 didn't bet (folded)
+Seat 6: A6615A didn't bet (folded)
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: tatyen didn't bet (folded)
+Seat 9: omuhtar showed [Td 9d] and won ($1.20) with a straight, King high
+
+
+
+Full Tilt Poker Game #8358779898: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:13:37 ET - 2008/10/05
+Seat 1: wizardwerdna ($45.55)
+Seat 2: mmarce3 ($12.50)
+Seat 3: BULLON2 ($18.30)
+Seat 4: clock_dollas ($50.95)
+Seat 5: yjs0626 ($27)
+Seat 6: A6615A ($46.65)
+Seat 7: ceapa19frate ($45.40)
+Seat 8: tatyen ($50)
+Seat 9: omuhtar ($51), is sitting out
+BULLON2 posts the small blind of $0.10
+clock_dollas posts the big blind of $0.25
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Qc Tc]
+yjs0626 folds
+A6615A folds
+ceapa19frate has 15 seconds left to act
+ceapa19frate calls $0.25
+tatyen calls $0.25
+wizardwerdna calls $0.25
+mmarce3 folds
+BULLON2 calls $0.15
+clock_dollas checks
+*** FLOP *** [Ac 8s 4s]
+BULLON2 checks
+clock_dollas checks
+ceapa19frate checks
+tatyen has 15 seconds left to act
+tatyen checks
+wizardwerdna checks
+*** TURN *** [Ac 8s 4s] [Kd]
+BULLON2 checks
+clock_dollas checks
+ceapa19frate checks
+tatyen has 15 seconds left to act
+tatyen bets $0.75
+wizardwerdna folds
+BULLON2 folds
+clock_dollas folds
+ceapa19frate folds
+Uncalled bet of $0.75 returned to tatyen
+tatyen mucks
+tatyen wins the pot ($1.20)
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05
+Board: [Ac 8s 4s Kd]
+Seat 1: wizardwerdna folded on the Turn
+Seat 2: mmarce3 (button) didn't bet (folded)
+Seat 3: BULLON2 (small blind) folded on the Turn
+Seat 4: clock_dollas (big blind) folded on the Turn
+Seat 5: yjs0626 didn't bet (folded)
+Seat 6: A6615A didn't bet (folded)
+Seat 7: ceapa19frate folded on the Turn
+Seat 8: tatyen collected ($1.20), mucked
+Seat 9: omuhtar is sitting out
+
+
+
+Full Tilt Poker Game #8358800335: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:15:36 ET - 2008/10/05
+Seat 1: wizardwerdna ($45.30)
+Seat 2: mmarce3 ($12.50)
+Seat 3: BULLON2 ($18.05)
+Seat 4: clock_dollas ($50.70)
+Seat 5: yjs0626 ($27)
+Seat 6: A6615A ($46.65)
+Seat 7: ceapa19frate ($45.15)
+Seat 8: tatyen ($50.95)
+Seat 9: omuhtar ($51), is sitting out
+clock_dollas posts the small blind of $0.10
+yjs0626 posts the big blind of $0.25
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Td 4d]
+A6615A calls $0.25
+ceapa19frate folds
+tatyen has 15 seconds left to act
+tatyen folds
+wizardwerdna folds
+mmarce3 calls $0.25
+BULLON2 folds
+clock_dollas has 15 seconds left to act
+clock_dollas calls $0.15
+yjs0626 checks
+*** FLOP *** [6d 5s Jh]
+clock_dollas checks
+yjs0626 checks
+A6615A checks
+mmarce3 bets $0.50
+clock_dollas folds
+yjs0626 folds
+A6615A raises to $1
+mmarce3 calls $0.50
+*** TURN *** [6d 5s Jh] [5d]
+A6615A bets $2
+mmarce3 calls $2
+*** RIVER *** [6d 5s Jh 5d] [3d]
+A6615A checks
+mmarce3 bets $2
+A6615A calls $2
+*** SHOW DOWN ***
+mmarce3 shows [Ah 5c] three of a kind, Fives
+A6615A mucks
+mmarce3 wins the pot ($10.45) with three of a kind, Fives
+*** SUMMARY ***
+Total pot $11 | Rake $0.55
+Board: [6d 5s Jh 5d 3d]
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: mmarce3 showed [Ah 5c] and won ($10.45) with three of a kind, Fives
+Seat 3: BULLON2 (button) didn't bet (folded)
+Seat 4: clock_dollas (small blind) folded on the Flop
+Seat 5: yjs0626 (big blind) folded on the Flop
+Seat 6: A6615A mucked [Qc Jc] - two pair, Jacks and Fives
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: tatyen didn't bet (folded)
+Seat 9: omuhtar is sitting out
+
+
+
+Full Tilt Poker Game #8358817334: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:17:14 ET - 2008/10/05
+Seat 1: wizardwerdna ($45.30)
+Seat 2: mmarce3 ($17.70)
+Seat 3: BULLON2 ($18.05)
+Seat 4: clock_dollas ($50.45)
+Seat 5: yjs0626 ($26.75)
+Seat 6: A6615A ($41.40)
+Seat 7: ceapa19frate ($45.15)
+Seat 8: tatyen ($50.95)
+Seat 9: omuhtar ($51), is sitting out
+yjs0626 posts the small blind of $0.10
+A6615A posts the big blind of $0.25
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7c 8c]
+tatyen has been disconnected
+ceapa19frate has 15 seconds left to act
+ceapa19frate folds
+tatyen has reconnected
+tatyen folds
+wizardwerdna has 15 seconds left to act
+wizardwerdna raises to $0.60
+mmarce3 folds
+BULLON2 calls $0.60
+clock_dollas folds
+yjs0626 folds
+A6615A folds
+*** FLOP *** [3c Jc 7s]
+wizardwerdna has 15 seconds left to act
+wizardwerdna bets $0.80
+BULLON2 folds
+Uncalled bet of $0.80 returned to wizardwerdna
+wizardwerdna mucks
+wizardwerdna wins the pot ($1.50)
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.05
+Board: [3c Jc 7s]
+Seat 1: wizardwerdna collected ($1.50), mucked
+Seat 2: mmarce3 didn't bet (folded)
+Seat 3: BULLON2 folded on the Flop
+Seat 4: clock_dollas (button) didn't bet (folded)
+Seat 5: yjs0626 (small blind) folded before the Flop
+Seat 6: A6615A (big blind) folded before the Flop
+Seat 7: ceapa19frate didn't bet (folded)
+Seat 8: tatyen didn't bet (folded)
+Seat 9: omuhtar is sitting out
+
+
+
+Full Tilt Poker Game #8358827786: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:18:15 ET - 2008/10/05
+Seat 1: wizardwerdna ($46.20)
+Seat 2: mmarce3 ($17.70)
+Seat 3: BULLON2 ($17.45)
+Seat 4: clock_dollas ($50.45)
+Seat 5: yjs0626 ($26.65)
+Seat 6: A6615A ($41.15)
+Seat 7: ceapa19frate ($45.15)
+Seat 8: tatyen ($50.95)
+Seat 9: omuhtar ($51), is sitting out
+A6615A posts the small blind of $0.10
+ceapa19frate has 5 seconds left to act
+ceapa19frate is sitting out
+ceapa19frate has timed out
+tatyen posts the big blind of $0.25
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Kc 3s]
+wizardwerdna folds
+mmarce3 folds
+BULLON2 raises to $1
+clock_dollas folds
+yjs0626 folds
+A6615A is sitting out
+A6615A folds
+tatyen folds
+Uncalled bet of $0.75 returned to BULLON2
+BULLON2 mucks
+BULLON2 wins the pot ($0.60)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: mmarce3 didn't bet (folded)
+Seat 3: BULLON2 collected ($0.60), mucked
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 (button) didn't bet (folded)
+Seat 6: A6615A (small blind) folded before the Flop
+Seat 7: ceapa19frate is sitting out
+Seat 8: tatyen (big blind) folded before the Flop
+Seat 9: omuhtar is sitting out
+
+
+
+Full Tilt Poker Game #8358834722: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:18:55 ET - 2008/10/05
+Seat 1: wizardwerdna ($46.20)
+Seat 2: mmarce3 ($17.70)
+Seat 3: BULLON2 ($17.80)
+Seat 4: clock_dollas ($50.45)
+Seat 5: yjs0626 ($26.65)
+Seat 6: A6615A ($41.05), is sitting out
+Seat 7: ceapa19frate ($45.15), is sitting out
+Seat 8: tatyen ($50.70)
+Seat 9: omuhtar ($51), is sitting out
+tatyen posts the small blind of $0.10
+wizardwerdna has 5 seconds left to act
+wizardwerdna posts the big blind of $0.25
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Qs 2s]
+mmarce3 is sitting out
+mmarce3 folds
+BULLON2 calls $0.25
+mmarce3 stands up
+clock_dollas has 15 seconds left to act
+clock_dollas raises to $1.10
+yjs0626 folds
+tatyen folds
+wizardwerdna folds
+BULLON2 calls $0.85
+*** FLOP *** [Kh 9d Kc]
+BULLON2 bets $16.70, and is all in
+clock_dollas folds
+Uncalled bet of $16.70 returned to BULLON2
+BULLON2 mucks
+BULLON2 wins the pot ($2.45)
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.10
+Board: [Kh 9d Kc]
+Seat 1: wizardwerdna (big blind) folded before the Flop
+Seat 2: mmarce3 didn't bet (folded)
+Seat 3: BULLON2 collected ($2.45), mucked
+Seat 4: clock_dollas folded on the Flop
+Seat 5: yjs0626 didn't bet (folded)
+Seat 6: A6615A (button) is sitting out
+Seat 7: ceapa19frate is sitting out
+Seat 8: tatyen (small blind) folded before the Flop
+Seat 9: omuhtar is sitting out
+
+
+
+Full Tilt Poker Game #8358843592: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:19:45 ET - 2008/10/05
+Seat 1: wizardwerdna ($45.95)
+Seat 3: BULLON2 ($19.15)
+Seat 4: clock_dollas ($49.35)
+Seat 5: yjs0626 ($26.65)
+Seat 6: A6615A ($41.05), is sitting out
+Seat 7: ceapa19frate ($45.15), is sitting out
+Seat 8: tatyen ($50.60)
+Seat 9: omuhtar ($51), is sitting out
+wizardwerdna has 5 seconds left to act
+wizardwerdna posts the small blind of $0.10
+BULLON2 posts the big blind of $0.25
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to wizardwerdna [As 8c]
+clock_dollas has 15 seconds left to act
+clock_dollas folds
+yjs0626 folds
+tatyen folds
+wizardwerdna calls $0.15
+BULLON2 checks
+*** FLOP *** [9d 3h Ks]
+wizardwerdna checks
+BULLON2 bets $0.50
+wizardwerdna folds
+Uncalled bet of $0.50 returned to BULLON2
+BULLON2 mucks
+BULLON2 wins the pot ($0.50)
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Board: [9d 3h Ks]
+Seat 1: wizardwerdna (small blind) folded on the Flop
+Seat 3: BULLON2 (big blind) collected ($0.50), mucked
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 didn't bet (folded)
+Seat 6: A6615A is sitting out
+Seat 7: ceapa19frate is sitting out
+Seat 8: tatyen (button) didn't bet (folded)
+Seat 9: omuhtar is sitting out
+
+
+
+Full Tilt Poker Game #8358851966: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:20:33 ET - 2008/10/05
+Wired King sits down
+Seat 1: wizardwerdna ($45.70)
+Seat 3: BULLON2 ($19.40)
+Seat 4: clock_dollas ($49.35)
+Seat 5: yjs0626 ($26.65)
+Seat 6: A6615A ($41.05), is sitting out
+Seat 7: ceapa19frate ($45.15), is sitting out
+Seat 8: tatyen ($50.60)
+Seat 9: omuhtar ($51), is sitting out
+BULLON2 posts the small blind of $0.10
+clock_dollas posts the big blind of $0.25
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Qd 2s]
+Wired King adds $50
+ceapa19frate stands up
+yjs0626 folds
+tatyen folds
+wizardwerdna folds
+BULLON2 calls $0.15
+clock_dollas checks
+*** FLOP *** [7c 8d Kh]
+BULLON2 checks
+edmis sits down
+clock_dollas checks
+*** TURN *** [7c 8d Kh] [2h]
+edmis adds $20
+BULLON2 bets $0.75
+clock_dollas folds
+Uncalled bet of $0.75 returned to BULLON2
+BULLON2 mucks
+BULLON2 wins the pot ($0.50)
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Board: [7c 8d Kh 2h]
+Seat 1: wizardwerdna (button) didn't bet (folded)
+Seat 3: BULLON2 (small blind) collected ($0.50), mucked
+Seat 4: clock_dollas (big blind) folded on the Turn
+Seat 5: yjs0626 didn't bet (folded)
+Seat 6: A6615A is sitting out
+Seat 7: ceapa19frate is sitting out
+Seat 8: tatyen didn't bet (folded)
+Seat 9: omuhtar is sitting out
+
+
+
+Full Tilt Poker Game #8358859302: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:21:15 ET - 2008/10/05
+Seat 1: wizardwerdna ($45.70)
+Seat 2: Wired King ($50)
+Seat 3: BULLON2 ($19.65)
+Seat 4: clock_dollas ($49.10)
+Seat 5: yjs0626 ($26.65)
+Seat 6: A6615A ($41.05), is sitting out
+Seat 7: edmis ($20)
+Seat 8: tatyen ($50.60)
+Seat 9: omuhtar ($51), is sitting out
+clock_dollas posts the small blind of $0.10
+yjs0626 posts the big blind of $0.25
+edmis posts $0.25
+A6615A has returned
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7s 2c]
+edmis checks
+tatyen calls $0.25
+wizardwerdna folds
+BULLON2 folds
+clock_dollas folds
+yjs0626 checks
+*** FLOP *** [As Qc Ah]
+yjs0626 checks
+edmis checks
+tatyen has 15 seconds left to act
+tatyen checks
+*** TURN *** [As Qc Ah] [7c]
+yjs0626 checks
+edmis checks
+tatyen has 15 seconds left to act
+tatyen checks
+*** RIVER *** [As Qc Ah 7c] [9s]
+yjs0626 checks
+edmis has 15 seconds left to act
+edmis checks
+tatyen has 15 seconds left to act
+tatyen checks
+*** SHOW DOWN ***
+yjs0626 shows [6h Jd] a pair of Aces
+edmis shows [Kd 9c] two pair, Aces and Nines
+tatyen mucks
+edmis wins the pot ($0.85) with two pair, Aces and Nines
+edmis is sitting out
+*** SUMMARY ***
+Total pot $0.85 | Rake $0
+Board: [As Qc Ah 7c 9s]
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: Wired King is sitting out
+Seat 3: BULLON2 (button) didn't bet (folded)
+Seat 4: clock_dollas (small blind) folded before the Flop
+Seat 5: yjs0626 (big blind) showed [6h Jd] and lost with a pair of Aces
+Seat 6: A6615A is sitting out
+Seat 7: edmis showed [Kd 9c] and won ($0.85) with two pair, Aces and Nines
+Seat 8: tatyen mucked [3h 2h] - a pair of Aces
+Seat 9: omuhtar is sitting out
+
+
+
+Full Tilt Poker Game #8358874710: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:22:44 ET - 2008/10/05
+Seat 1: wizardwerdna ($45.70)
+Seat 2: Wired King ($50)
+Seat 3: BULLON2 ($19.65)
+Seat 4: clock_dollas ($49)
+Seat 5: yjs0626 ($26.40)
+Seat 6: A6615A ($41.05)
+Seat 7: edmis ($20.60), is sitting out
+Seat 8: tatyen ($50.35)
+Seat 9: omuhtar ($51), is sitting out
+yjs0626 posts the small blind of $0.10
+A6615A posts the big blind of $0.25
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to wizardwerdna [8h 7h]
+tatyen folds
+wizardwerdna raises to $0.60
+BULLON2 folds
+clock_dollas folds
+yjs0626 folds
+A6615A folds
+Uncalled bet of $0.35 returned to wizardwerdna
+edmis has returned
+wizardwerdna mucks
+wizardwerdna wins the pot ($0.60)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0
+Seat 1: wizardwerdna collected ($0.60), mucked
+Seat 2: Wired King is sitting out
+Seat 3: BULLON2 didn't bet (folded)
+Seat 4: clock_dollas (button) didn't bet (folded)
+Seat 5: yjs0626 (small blind) folded before the Flop
+Seat 6: A6615A (big blind) folded before the Flop
+Seat 7: edmis is sitting out
+Seat 8: tatyen didn't bet (folded)
+Seat 9: omuhtar is sitting out
+
+
+
+Full Tilt Poker Game #8358879444: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:23:11 ET - 2008/10/05
+Seat 1: wizardwerdna ($46.05)
+Seat 2: Wired King ($50)
+Seat 3: BULLON2 ($19.65)
+Seat 4: clock_dollas ($49)
+Seat 5: yjs0626 ($26.30)
+Seat 6: A6615A ($40.80)
+Seat 7: edmis ($20.60)
+Seat 8: tatyen ($50.35)
+Seat 9: omuhtar ($51), is sitting out
+A6615A posts the small blind of $0.10
+edmis posts the big blind of $0.25
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Jh 7h]
+tatyen folds
+wizardwerdna has 15 seconds left to act
+wizardwerdna folds
+BULLON2 folds
+clock_dollas folds
+yjs0626 folds
+A6615A raises to $1
+edmis folds
+Uncalled bet of $0.75 returned to A6615A
+A6615A mucks
+A6615A wins the pot ($0.50)
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: wizardwerdna didn't bet (folded)
+Seat 2: Wired King is sitting out
+Seat 3: BULLON2 didn't bet (folded)
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 (button) didn't bet (folded)
+Seat 6: A6615A (small blind) collected ($0.50), mucked
+Seat 7: edmis (big blind) folded before the Flop
+Seat 8: tatyen didn't bet (folded)
+Seat 9: omuhtar is sitting out
+
+
+
+Full Tilt Poker Game #8358884473: Table Proud (deep) - $0.10/$0.25 - No Limit Hold'em - 12:23:41 ET - 2008/10/05
+Seat 1: wizardwerdna ($46.05)
+Seat 2: Wired King ($50)
+Seat 3: BULLON2 ($19.65)
+Seat 4: clock_dollas ($49)
+Seat 5: yjs0626 ($26.30)
+Seat 6: A6615A ($41.05)
+Seat 7: edmis ($20.35)
+Seat 8: tatyen ($50.35)
+Seat 9: omuhtar ($51), is sitting out
+edmis posts the small blind of $0.10
+tatyen posts the big blind of $0.25
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to wizardwerdna [6c 4c]
+wizardwerdna has 15 seconds left to act
+wizardwerdna calls $0.25
+BULLON2 calls $0.25
+clock_dollas folds
+yjs0626 raises to $1.50
+A6615A folds
+edmis folds
+tatyen folds
+wizardwerdna calls $1.25
+BULLON2 calls $1.25
+*** FLOP *** [Kc Qh Ks]
+wizardwerdna checks
+BULLON2 has 15 seconds left to act
+BULLON2 bets $1
+yjs0626 calls $1
+wizardwerdna folds
+*** TURN *** [Kc Qh Ks] [8d]
+BULLON2 checks
+yjs0626 checks
+*** RIVER *** [Kc Qh Ks 8d] [8s]
+BULLON2 bets $1.25
+yjs0626 calls $1.25
+*** SHOW DOWN ***
+BULLON2 shows [Kh Ts] a full house, Kings full of Eights
+yjs0626 mucks
+BULLON2 wins the pot ($8.90) with a full house, Kings full of Eights
+*** SUMMARY ***
+Total pot $9.35 | Rake $0.45
+Board: [Kc Qh Ks 8d 8s]
+Seat 1: wizardwerdna folded on the Flop
+Seat 2: Wired King is sitting out
+Seat 3: BULLON2 showed [Kh Ts] and won ($8.90) with a full house, Kings full of Eights
+Seat 4: clock_dollas didn't bet (folded)
+Seat 5: yjs0626 mucked [Jh Jc] - two pair, Kings and Jacks
+Seat 6: A6615A (button) didn't bet (folded)
+Seat 7: edmis (small blind) folded before the Flop
+Seat 8: tatyen (big blind) folded before the Flop
+Seat 9: omuhtar is sitting out
+
+
+

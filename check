@@ -12,7 +12,7 @@ def display(playername, players_shown = {})
   
   
   puts escaped_playername = URI.escape(playername).gsub(/["']/,'\\\\\&')
-  result = `curl -s http://www.poker-edge.com/whoami.php?name=#{escaped_playername}`
+  result = `curl -s http://www.poker-edge.com/whoami.php?name=#{escaped_playername}&site=Stars`
   puts "Results for #{playername}:"
   if result =~ /(Pre-Flop Tend.*\n)/
     verbose = $1.gsub(/<\/?[^>]*>/, "")

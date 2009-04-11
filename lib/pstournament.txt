@@ -1,0 +1,1128 @@
+PokerStars Game #21650436825: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:25:42 ET
+Table '117620218 1' 9-max Seat #1 is the button
+Seat 1: Bear0930 (1500 in chips) 
+Seat 2: Hoggsnake (1500 in chips) 
+Seat 3: BadBeat_Brat (1500 in chips) 
+Seat 4: elsamisam (1500 in chips) 
+Seat 5: giulio2006 (1500 in chips) 
+Seat 6: Mr3pair (1500 in chips) 
+Seat 7: wizardwerdna (1500 in chips) 
+Seat 8: schempy01 (1500 in chips) 
+Seat 9: acerupert (1500 in chips) 
+Hoggsnake: posts small blind 10
+BadBeat_Brat: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Kh 6c]
+elsamisam: raises 120 to 140
+giulio2006: folds 
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: folds 
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: folds 
+Uncalled bet (120) returned to elsamisam
+elsamisam collected 50 from pot
+elsamisam: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Bear0930 (button) folded before Flop (didn't bet)
+Seat 2: Hoggsnake (small blind) folded before Flop
+Seat 3: BadBeat_Brat (big blind) folded before Flop
+Seat 4: elsamisam collected (50)
+Seat 5: giulio2006 folded before Flop (didn't bet)
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 folded before Flop (didn't bet)
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650458596: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:26:34 ET
+Table '117620218 1' 9-max Seat #2 is the button
+Seat 1: Bear0930 (1500 in chips) 
+Seat 2: Hoggsnake (1490 in chips) 
+Seat 3: BadBeat_Brat (1480 in chips) 
+Seat 4: elsamisam (1530 in chips) 
+Seat 5: giulio2006 (1500 in chips) 
+Seat 6: Mr3pair (1500 in chips) 
+Seat 7: wizardwerdna (1500 in chips) 
+Seat 8: schempy01 (1500 in chips) 
+Seat 9: acerupert (1500 in chips) 
+BadBeat_Brat: posts small blind 10
+elsamisam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4h 2d]
+giulio2006: folds 
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: calls 20
+acerupert: folds 
+Bear0930: calls 20
+Hoggsnake: folds 
+BadBeat_Brat: calls 10
+elsamisam: checks 
+*** FLOP *** [Qc 9d 2c]
+BadBeat_Brat: checks 
+elsamisam: checks 
+schempy01: checks 
+Bear0930: checks 
+*** TURN *** [Qc 9d 2c] [6s]
+BadBeat_Brat: checks 
+elsamisam: checks 
+schempy01: checks 
+Bear0930: checks 
+*** RIVER *** [Qc 9d 2c 6s] [6c]
+BadBeat_Brat: checks 
+elsamisam: checks 
+schempy01: checks 
+Bear0930: checks 
+*** SHOW DOWN ***
+BadBeat_Brat: shows [5s 3s] (a pair of Sixes)
+elsamisam: shows [8h Ah] (a pair of Sixes - Ace kicker)
+schempy01: mucks hand 
+Bear0930: mucks hand 
+elsamisam collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 9d 2c 6s 6c]
+Seat 1: Bear0930 mucked [Td Kd]
+Seat 2: Hoggsnake (button) folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat (small blind) showed [5s 3s] and lost with a pair of Sixes
+Seat 4: elsamisam (big blind) showed [8h Ah] and won (80) with a pair of Sixes
+Seat 5: giulio2006 folded before Flop (didn't bet)
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 mucked [Ks Js]
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650484641: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:27:38 ET
+Table '117620218 1' 9-max Seat #3 is the button
+Seat 1: Bear0930 (1480 in chips) 
+Seat 2: Hoggsnake (1490 in chips) 
+Seat 3: BadBeat_Brat (1460 in chips) 
+Seat 4: elsamisam (1590 in chips) 
+Seat 5: giulio2006 (1500 in chips) 
+Seat 6: Mr3pair (1500 in chips) 
+Seat 7: wizardwerdna (1500 in chips) 
+Seat 8: schempy01 (1480 in chips) 
+Seat 9: acerupert (1500 in chips) 
+elsamisam: posts small blind 10
+giulio2006: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Js Ad]
+Mr3pair: folds 
+wizardwerdna: raises 30 to 50
+schempy01: folds 
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: folds 
+elsamisam: calls 40
+giulio2006: calls 30
+*** FLOP *** [9d Jc 5d]
+elsamisam: checks 
+giulio2006: bets 60
+wizardwerdna: raises 190 to 250
+elsamisam: folds 
+giulio2006: folds 
+Uncalled bet (190) returned to wizardwerdna
+wizardwerdna collected 270 from pot
+wizardwerdna: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [9d Jc 5d]
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat (button) folded before Flop (didn't bet)
+Seat 4: elsamisam (small blind) folded on the Flop
+Seat 5: giulio2006 (big blind) folded on the Flop
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna collected (270)
+Seat 8: schempy01 folded before Flop (didn't bet)
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650508557: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:28:37 ET
+Table '117620218 1' 9-max Seat #4 is the button
+Seat 1: Bear0930 (1480 in chips) 
+Seat 2: Hoggsnake (1490 in chips) 
+Seat 3: BadBeat_Brat (1460 in chips) 
+Seat 4: elsamisam (1540 in chips) 
+Seat 5: giulio2006 (1390 in chips) 
+Seat 6: Mr3pair (1500 in chips) 
+Seat 7: wizardwerdna (1660 in chips) 
+Seat 8: schempy01 (1480 in chips) 
+Seat 9: acerupert (1500 in chips) 
+giulio2006: posts small blind 10
+Mr3pair: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7d Th]
+wizardwerdna: folds 
+schempy01: folds 
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: folds 
+elsamisam: folds 
+giulio2006: calls 10
+Mr3pair: checks 
+*** FLOP *** [Ts 4d 4c]
+giulio2006: checks 
+Mr3pair: checks 
+*** TURN *** [Ts 4d 4c] [6h]
+giulio2006: checks 
+Mr3pair: checks 
+*** RIVER *** [Ts 4d 4c 6h] [Ac]
+giulio2006: bets 200
+Mr3pair: folds 
+Uncalled bet (200) returned to giulio2006
+giulio2006 collected 40 from pot
+giulio2006: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ts 4d 4c 6h Ac]
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 4: elsamisam (button) folded before Flop (didn't bet)
+Seat 5: giulio2006 (small blind) collected (40)
+Seat 6: Mr3pair (big blind) folded on the River
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 folded before Flop (didn't bet)
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650533701: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:29:39 ET
+Table '117620218 1' 9-max Seat #5 is the button
+Seat 1: Bear0930 (1480 in chips) 
+Seat 2: Hoggsnake (1490 in chips) 
+Seat 3: BadBeat_Brat (1460 in chips) 
+Seat 4: elsamisam (1540 in chips) 
+Seat 5: giulio2006 (1410 in chips) 
+Seat 6: Mr3pair (1480 in chips) 
+Seat 7: wizardwerdna (1660 in chips) 
+Seat 8: schempy01 (1480 in chips) 
+Seat 9: acerupert (1500 in chips) 
+Mr3pair: posts small blind 10
+wizardwerdna: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Td 7c]
+schempy01: calls 20
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: folds 
+elsamisam: folds 
+giulio2006: folds 
+Mr3pair: calls 10
+wizardwerdna: checks 
+*** FLOP *** [Jh 2c Ah]
+Mr3pair: checks 
+wizardwerdna: checks 
+schempy01: checks 
+*** TURN *** [Jh 2c Ah] [5h]
+Mr3pair: checks 
+wizardwerdna: checks 
+schempy01: checks 
+*** RIVER *** [Jh 2c Ah 5h] [2d]
+Mr3pair: checks 
+wizardwerdna: checks 
+schempy01: checks 
+*** SHOW DOWN ***
+Mr3pair: shows [6d Qs] (a pair of Deuces)
+wizardwerdna: mucks hand 
+schempy01: shows [Qc Js] (two pair, Jacks and Deuces)
+schempy01 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jh 2c Ah 5h 2d]
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 4: elsamisam folded before Flop (didn't bet)
+Seat 5: giulio2006 (button) folded before Flop (didn't bet)
+Seat 6: Mr3pair (small blind) showed [6d Qs] and lost with a pair of Deuces
+Seat 7: wizardwerdna (big blind) mucked [Td 7c]
+Seat 8: schempy01 showed [Qc Js] and won (60) with two pair, Jacks and Deuces
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650557949: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:30:39 ET
+Table '117620218 1' 9-max Seat #6 is the button
+Seat 1: Bear0930 (1480 in chips) 
+Seat 2: Hoggsnake (1490 in chips) 
+Seat 3: BadBeat_Brat (1460 in chips) 
+Seat 4: elsamisam (1540 in chips) 
+Seat 5: giulio2006 (1410 in chips) 
+Seat 6: Mr3pair (1460 in chips) 
+Seat 7: wizardwerdna (1640 in chips) 
+Seat 8: schempy01 (1520 in chips) 
+Seat 9: acerupert (1500 in chips) 
+wizardwerdna: posts small blind 10
+schempy01: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [9d Qc]
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: folds 
+elsamisam: raises 60 to 80
+giulio2006: folds 
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: folds 
+Uncalled bet (60) returned to elsamisam
+elsamisam collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 4: elsamisam collected (50)
+Seat 5: giulio2006 folded before Flop (didn't bet)
+Seat 6: Mr3pair (button) folded before Flop (didn't bet)
+Seat 7: wizardwerdna (small blind) folded before Flop
+Seat 8: schempy01 (big blind) folded before Flop
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650575194: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:31:19 ET
+Table '117620218 1' 9-max Seat #7 is the button
+Seat 1: Bear0930 (1480 in chips) 
+Seat 2: Hoggsnake (1490 in chips) 
+Seat 3: BadBeat_Brat (1460 in chips) 
+Seat 4: elsamisam (1570 in chips) 
+Seat 5: giulio2006 (1410 in chips) 
+Seat 6: Mr3pair (1460 in chips) 
+Seat 7: wizardwerdna (1630 in chips) 
+Seat 8: schempy01 (1500 in chips) 
+Seat 9: acerupert (1500 in chips) 
+schempy01: posts small blind 10
+acerupert: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7c 4s]
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: folds 
+elsamisam: raises 120 to 140
+giulio2006: calls 140
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: calls 130
+acerupert: folds 
+*** FLOP *** [Tc Ts 8s]
+schempy01: checks 
+elsamisam: checks 
+giulio2006: checks 
+*** TURN *** [Tc Ts 8s] [Kh]
+schempy01: checks 
+elsamisam: bets 120
+giulio2006: folds 
+schempy01: folds 
+Uncalled bet (120) returned to elsamisam
+elsamisam collected 440 from pot
+elsamisam: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Tc Ts 8s Kh]
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 4: elsamisam collected (440)
+Seat 5: giulio2006 folded on the Turn
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna (button) folded before Flop (didn't bet)
+Seat 8: schempy01 (small blind) folded on the Turn
+Seat 9: acerupert (big blind) folded before Flop
+
+
+
+PokerStars Game #21650598572: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:32:16 ET
+Table '117620218 1' 9-max Seat #8 is the button
+Seat 1: Bear0930 (1480 in chips) 
+Seat 2: Hoggsnake (1490 in chips) 
+Seat 3: BadBeat_Brat (1460 in chips) 
+Seat 4: elsamisam (1870 in chips) 
+Seat 5: giulio2006 (1270 in chips) 
+Seat 6: Mr3pair (1460 in chips) 
+Seat 7: wizardwerdna (1630 in chips) 
+Seat 8: schempy01 (1360 in chips) 
+Seat 9: acerupert (1480 in chips) 
+acerupert: posts small blind 10
+Bear0930: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [7s 3h]
+Hoggsnake: folds 
+BadBeat_Brat: folds 
+elsamisam: calls 20
+giulio2006: raises 60 to 80
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: folds 
+acerupert: folds 
+Bear0930: raises 180 to 260
+elsamisam: folds 
+giulio2006: raises 1010 to 1270 and is all-in
+Bear0930: calls 1010
+*** FLOP *** [5h 4d Kc]
+*** TURN *** [5h 4d Kc] [9h]
+*** RIVER *** [5h 4d Kc 9h] [2h]
+*** SHOW DOWN ***
+Bear0930: shows [Ad Ah] (a pair of Aces)
+giulio2006: shows [Th As] (high card Ace)
+Bear0930 collected 2570 from pot
+*** SUMMARY ***
+Total pot 2570 | Rake 0 
+Board [5h 4d Kc 9h 2h]
+Seat 1: Bear0930 (big blind) showed [Ad Ah] and won (2570) with a pair of Aces
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 4: elsamisam folded before Flop
+Seat 5: giulio2006 showed [Th As] and lost with high card Ace
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 (button) folded before Flop (didn't bet)
+Seat 9: acerupert (small blind) folded before Flop
+
+
+
+PokerStars Game #21650621087: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:33:10 ET
+Table '117620218 1' 9-max Seat #9 is the button
+Seat 1: Bear0930 (2780 in chips) 
+Seat 2: Hoggsnake (1490 in chips) 
+Seat 3: BadBeat_Brat (1460 in chips) 
+Seat 4: elsamisam (1850 in chips) 
+Seat 6: Mr3pair (1460 in chips) 
+Seat 7: wizardwerdna (1630 in chips) 
+Seat 8: schempy01 (1360 in chips) 
+Seat 9: acerupert (1470 in chips) 
+Bear0930: posts small blind 10
+Hoggsnake: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Ks 4h]
+BadBeat_Brat: folds 
+elsamisam: folds 
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: folds 
+acerupert: folds 
+Bear0930: calls 10
+Hoggsnake: checks 
+*** FLOP *** [3d 8s Qc]
+Bear0930: checks 
+Hoggsnake: checks 
+*** TURN *** [3d 8s Qc] [Jc]
+Bear0930: checks 
+Hoggsnake: checks 
+*** RIVER *** [3d 8s Qc Jc] [5h]
+Bear0930: checks 
+Hoggsnake: checks 
+*** SHOW DOWN ***
+Bear0930: shows [9h 7d] (high card Queen)
+Hoggsnake: shows [3h Ah] (a pair of Threes)
+Hoggsnake collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3d 8s Qc Jc 5h]
+Seat 1: Bear0930 (small blind) showed [9h 7d] and lost with high card Queen
+Seat 2: Hoggsnake (big blind) showed [3h Ah] and won (40) with a pair of Threes
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 4: elsamisam folded before Flop (didn't bet)
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 folded before Flop (didn't bet)
+Seat 9: acerupert (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650637011: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:33:49 ET
+Table '117620218 1' 9-max Seat #1 is the button
+Seat 1: Bear0930 (2760 in chips) 
+Seat 2: Hoggsnake (1510 in chips) 
+Seat 3: BadBeat_Brat (1460 in chips) 
+Seat 4: elsamisam (1850 in chips) 
+Seat 6: Mr3pair (1460 in chips) 
+Seat 7: wizardwerdna (1630 in chips) 
+Seat 8: schempy01 (1360 in chips) 
+Seat 9: acerupert (1470 in chips) 
+Hoggsnake: posts small blind 10
+BadBeat_Brat: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [5c Qs]
+elsamisam: folds 
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: calls 20
+acerupert: raises 80 to 100
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: calls 80
+schempy01: calls 80
+*** FLOP *** [Ah 2c 9c]
+BadBeat_Brat: checks 
+schempy01: bets 60
+acerupert: folds 
+BadBeat_Brat: calls 60
+*** TURN *** [Ah 2c 9c] [8h]
+BadBeat_Brat: bets 400
+schempy01: folds 
+Uncalled bet (400) returned to BadBeat_Brat
+BadBeat_Brat collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [Ah 2c 9c 8h]
+Seat 1: Bear0930 (button) folded before Flop (didn't bet)
+Seat 2: Hoggsnake (small blind) folded before Flop
+Seat 3: BadBeat_Brat (big blind) collected (430)
+Seat 4: elsamisam folded before Flop (didn't bet)
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 folded on the Turn
+Seat 9: acerupert folded on the Flop
+
+
+
+PokerStars Game #21650672303: Tournament #117620218, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/10/31 17:35:13 ET
+Table '117620218 1' 9-max Seat #2 is the button
+Seat 1: Bear0930 (2760 in chips) 
+Seat 2: Hoggsnake (1500 in chips) 
+Seat 3: BadBeat_Brat (1730 in chips) 
+Seat 4: elsamisam (1850 in chips) 
+Seat 6: Mr3pair (1460 in chips) 
+Seat 7: wizardwerdna (1630 in chips) 
+Seat 8: schempy01 (1200 in chips) 
+Seat 9: acerupert (1370 in chips) 
+BadBeat_Brat: posts small blind 10
+elsamisam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wizardwerdna [6h Tc]
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: folds 
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: calls 10
+elsamisam: checks 
+*** FLOP *** [9h Jh Kc]
+BadBeat_Brat: bets 20
+elsamisam: calls 20
+*** TURN *** [9h Jh Kc] [Kd]
+BadBeat_Brat: checks 
+elsamisam: bets 60
+BadBeat_Brat said, "my 9 any good ???"
+BadBeat_Brat: folds 
+Uncalled bet (60) returned to elsamisam
+elsamisam collected 80 from pot
+elsamisam: shows [2c Js] (two pair, Kings and Jacks)
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h Jh Kc Kd]
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake (button) folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat (small blind) folded on the Turn
+Seat 4: elsamisam (big blind) collected (80)
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 folded before Flop (didn't bet)
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650704728: Tournament #117620218, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/10/31 17:36:32 ET
+Table '117620218 1' 9-max Seat #3 is the button
+Seat 1: Bear0930 (2760 in chips) 
+Seat 2: Hoggsnake (1500 in chips) 
+Seat 3: BadBeat_Brat (1690 in chips) 
+Seat 4: elsamisam (1890 in chips) 
+Seat 6: Mr3pair (1460 in chips) 
+Seat 7: wizardwerdna (1630 in chips) 
+Seat 8: schempy01 (1200 in chips) 
+Seat 9: acerupert (1370 in chips) 
+elsamisam: posts small blind 15
+Mr3pair: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Kh 7s]
+wizardwerdna: folds 
+BadBeat_Brat said, "n1  :)"
+schempy01: calls 30
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: calls 30
+BadBeat_Brat said, "figured you had me"
+elsamisam: raises 120 to 150
+Mr3pair: folds 
+schempy01: calls 120
+BadBeat_Brat: calls 120
+*** FLOP *** [8d Ah 4s]
+elsamisam: bets 150
+schempy01: folds 
+BadBeat_Brat: calls 150
+*** TURN *** [8d Ah 4s] [Qd]
+elsamisam: checks 
+BadBeat_Brat: bets 300
+elsamisam: raises 1290 to 1590 and is all-in
+BadBeat_Brat: calls 1090 and is all-in
+Uncalled bet (200) returned to elsamisam
+*** RIVER *** [8d Ah 4s Qd] [6c]
+*** SHOW DOWN ***
+elsamisam: shows [As Qs] (two pair, Aces and Queens)
+BadBeat_Brat: shows [4c 4h] (three of a kind, Fours)
+BadBeat_Brat collected 3560 from pot
+*** SUMMARY ***
+Total pot 3560 | Rake 0 
+Board [8d Ah 4s Qd 6c]
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat (button) showed [4c 4h] and won (3560) with three of a kind, Fours
+Seat 4: elsamisam (small blind) showed [As Qs] and lost with two pair, Aces and Queens
+Seat 6: Mr3pair (big blind) folded before Flop
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 folded on the Flop
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650745204: Tournament #117620218, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/10/31 17:38:09 ET
+Table '117620218 1' 9-max Seat #4 is the button
+Seat 1: Bear0930 (2760 in chips) 
+Seat 2: Hoggsnake (1500 in chips) 
+Seat 3: BadBeat_Brat (3560 in chips) 
+Seat 4: elsamisam (200 in chips) 
+Seat 6: Mr3pair (1430 in chips) 
+Seat 7: wizardwerdna (1630 in chips) 
+Seat 8: schempy01 (1050 in chips) 
+Seat 9: acerupert (1370 in chips) 
+Mr3pair: posts small blind 15
+wizardwerdna: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4c Ad]
+elsamisam said, "vnh girl"
+BadBeat_Brat said, "ty"
+schempy01: raises 30 to 60
+acerupert: folds 
+BadBeat_Brat said, "tried telling you  :("
+Bear0930: folds 
+elsamisam said, "lol$"
+Hoggsnake: folds 
+BadBeat_Brat: folds 
+elsamisam: folds 
+Mr3pair: calls 45
+wizardwerdna has timed out
+wizardwerdna: folds 
+*** FLOP *** [As 9d 7h]
+wizardwerdna is sitting out
+Mr3pair: checks 
+schempy01: bets 60
+Mr3pair: folds 
+Uncalled bet (60) returned to schempy01
+schempy01 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [As 9d 7h]
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 4: elsamisam (button) folded before Flop (didn't bet)
+Seat 6: Mr3pair (small blind) folded on the Flop
+Seat 7: wizardwerdna (big blind) folded before Flop
+Seat 8: schempy01 collected (150)
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650805098: Tournament #117620218, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/10/31 17:40:33 ET
+Table '117620218 1' 9-max Seat #6 is the button
+Seat 1: Bear0930 (2760 in chips) 
+Seat 2: Hoggsnake (1500 in chips) 
+Seat 3: BadBeat_Brat (3560 in chips) 
+Seat 4: elsamisam (200 in chips) 
+Seat 6: Mr3pair (1370 in chips) 
+Seat 7: wizardwerdna (1600 in chips) is sitting out
+Seat 8: schempy01 (1140 in chips) 
+Seat 9: acerupert (1370 in chips) 
+wizardwerdna: posts small blind 15
+schempy01: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wizardwerdna [6c 9d]
+acerupert: folds 
+Bear0930: folds 
+wizardwerdna has returned
+Hoggsnake: folds 
+BadBeat_Brat: raises 69 to 99
+elsamisam: folds 
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: folds 
+Uncalled bet (69) returned to BadBeat_Brat
+BadBeat_Brat collected 75 from pot
+BadBeat_Brat: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat collected (75)
+Seat 4: elsamisam folded before Flop (didn't bet)
+Seat 6: Mr3pair (button) folded before Flop (didn't bet)
+Seat 7: wizardwerdna (small blind) folded before Flop
+Seat 8: schempy01 (big blind) folded before Flop
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650820285: Tournament #117620218, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/10/31 17:41:10 ET
+Table '117620218 1' 9-max Seat #7 is the button
+Seat 1: Bear0930 (2760 in chips) 
+Seat 2: Hoggsnake (1500 in chips) 
+Seat 3: BadBeat_Brat (3605 in chips) 
+Seat 4: elsamisam (200 in chips) 
+Seat 6: Mr3pair (1370 in chips) 
+Seat 7: wizardwerdna (1585 in chips) 
+Seat 8: schempy01 (1110 in chips) 
+Seat 9: acerupert (1370 in chips) 
+schempy01: posts small blind 15
+acerupert: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4d 6c]
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: folds 
+elsamisam: folds 
+Mr3pair: raises 60 to 90
+wizardwerdna: folds 
+schempy01: folds 
+acerupert: folds 
+Uncalled bet (60) returned to Mr3pair
+Mr3pair collected 75 from pot
+Mr3pair: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 4: elsamisam folded before Flop (didn't bet)
+Seat 6: Mr3pair collected (75)
+Seat 7: wizardwerdna (button) folded before Flop (didn't bet)
+Seat 8: schempy01 (small blind) folded before Flop
+Seat 9: acerupert (big blind) folded before Flop
+
+
+
+PokerStars Game #21650837667: Tournament #117620218, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/10/31 17:41:51 ET
+Table '117620218 1' 9-max Seat #8 is the button
+Seat 1: Bear0930 (2760 in chips) 
+Seat 2: Hoggsnake (1500 in chips) 
+Seat 3: BadBeat_Brat (3605 in chips) 
+Seat 4: elsamisam (200 in chips) 
+Seat 6: Mr3pair (1415 in chips) 
+Seat 7: wizardwerdna (1585 in chips) 
+Seat 8: schempy01 (1095 in chips) 
+Seat 9: acerupert (1340 in chips) 
+acerupert: posts small blind 15
+Bear0930: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wizardwerdna [5d 8s]
+Hoggsnake: folds 
+BadBeat_Brat: folds 
+elsamisam: calls 30
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: folds 
+acerupert: folds 
+Bear0930: checks 
+*** FLOP *** [Ad Th 7d]
+Bear0930: checks 
+elsamisam: bets 170 and is all-in
+Bear0930: folds 
+Uncalled bet (170) returned to elsamisam
+elsamisam collected 75 from pot
+elsamisam: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Ad Th 7d]
+Seat 1: Bear0930 (big blind) folded on the Flop
+Seat 2: Hoggsnake folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 4: elsamisam collected (75)
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 (button) folded before Flop (didn't bet)
+Seat 9: acerupert (small blind) folded before Flop
+
+
+
+PokerStars Game #21650850716: Tournament #117620218, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/10/31 17:42:23 ET
+Table '117620218 1' 9-max Seat #9 is the button
+Seat 1: Bear0930 (2730 in chips) 
+Seat 2: Hoggsnake (1500 in chips) 
+Seat 3: BadBeat_Brat (3605 in chips) 
+Seat 4: elsamisam (245 in chips) 
+Seat 6: Mr3pair (1415 in chips) 
+Seat 7: wizardwerdna (1585 in chips) 
+Seat 8: schempy01 (1095 in chips) 
+Seat 9: acerupert (1325 in chips) 
+Bear0930: posts small blind 15
+Hoggsnake: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Ts 3h]
+BadBeat_Brat: folds 
+elsamisam: folds 
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: folds 
+acerupert: folds 
+Bear0930: folds 
+Uncalled bet (15) returned to Hoggsnake
+Hoggsnake collected 30 from pot
+Hoggsnake: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Bear0930 (small blind) folded before Flop
+Seat 2: Hoggsnake (big blind) collected (30)
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 4: elsamisam folded before Flop (didn't bet)
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 folded before Flop (didn't bet)
+Seat 9: acerupert (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650861906: Tournament #117620218, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/10/31 17:42:50 ET
+Table '117620218 1' 9-max Seat #1 is the button
+Seat 1: Bear0930 (2715 in chips) 
+Seat 2: Hoggsnake (1515 in chips) 
+Seat 3: BadBeat_Brat (3605 in chips) 
+Seat 4: elsamisam (245 in chips) 
+Seat 6: Mr3pair (1415 in chips) 
+Seat 7: wizardwerdna (1585 in chips) 
+Seat 8: schempy01 (1095 in chips) 
+Seat 9: acerupert (1325 in chips) 
+Hoggsnake: posts small blind 15
+BadBeat_Brat: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4d 4s]
+elsamisam: calls 30
+Mr3pair: folds 
+wizardwerdna: calls 30
+schempy01: folds 
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: calls 15
+BadBeat_Brat: checks 
+*** FLOP *** [Ah 5s 2c]
+Hoggsnake: checks 
+BadBeat_Brat: checks 
+elsamisam: bets 90
+wizardwerdna: folds 
+Hoggsnake: calls 90
+BadBeat_Brat: folds 
+*** TURN *** [Ah 5s 2c] [8d]
+Hoggsnake: checks 
+elsamisam: checks 
+*** RIVER *** [Ah 5s 2c 8d] [8h]
+Hoggsnake: bets 60
+elsamisam: folds 
+Uncalled bet (60) returned to Hoggsnake
+Hoggsnake collected 300 from pot
+Hoggsnake: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ah 5s 2c 8d 8h]
+Seat 1: Bear0930 (button) folded before Flop (didn't bet)
+Seat 2: Hoggsnake (small blind) collected (300)
+Seat 3: BadBeat_Brat (big blind) folded on the Flop
+Seat 4: elsamisam folded on the River
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded on the Flop
+Seat 8: schempy01 folded before Flop (didn't bet)
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650894334: Tournament #117620218, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/10/31 17:44:08 ET
+Table '117620218 1' 9-max Seat #2 is the button
+Seat 1: Bear0930 (2715 in chips) 
+Seat 2: Hoggsnake (1695 in chips) 
+Seat 3: BadBeat_Brat (3575 in chips) 
+Seat 4: elsamisam (125 in chips) 
+Seat 6: Mr3pair (1415 in chips) 
+Seat 7: wizardwerdna (1555 in chips) 
+Seat 8: schempy01 (1095 in chips) 
+Seat 9: acerupert (1325 in chips) 
+BadBeat_Brat: posts small blind 15
+elsamisam: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wizardwerdna [Jc Ah]
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: calls 30
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: folds 
+BadBeat_Brat: calls 15
+elsamisam: raises 95 to 125 and is all-in
+schempy01: calls 95
+BadBeat_Brat: calls 95
+*** FLOP *** [7h 3h 4d]
+BadBeat_Brat: checks 
+schempy01: bets 30
+BadBeat_Brat: calls 30
+*** TURN *** [7h 3h 4d] [3d]
+BadBeat_Brat: checks 
+schempy01: bets 30
+BadBeat_Brat: calls 30
+*** RIVER *** [7h 3h 4d 3d] [8s]
+BadBeat_Brat: checks 
+schempy01: bets 90
+BadBeat_Brat: folds 
+Uncalled bet (90) returned to schempy01
+*** SHOW DOWN ***
+schempy01: shows [Kh 3c] (three of a kind, Threes)
+schempy01 collected 120 from side pot
+elsamisam: shows [6c Qc] (a pair of Threes)
+elsamisam is sitting out
+schempy01 collected 375 from main pot
+*** SUMMARY ***
+Total pot 495 Main pot 375. Side pot 120. | Rake 0 
+Board [7h 3h 4d 3d 8s]
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake (button) folded before Flop (didn't bet)
+Seat 3: BadBeat_Brat (small blind) folded on the River
+Seat 4: elsamisam (big blind) showed [6c Qc] and lost with a pair of Threes
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 showed [Kh 3c] and won (495) with three of a kind, Threes
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650929425: Tournament #117620218, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/10/31 17:45:33 ET
+Table '117620218 1' 9-max Seat #3 is the button
+Seat 1: Bear0930 (2715 in chips) 
+Seat 2: Hoggsnake (1695 in chips) 
+Seat 3: BadBeat_Brat (3390 in chips) 
+Seat 6: Mr3pair (1415 in chips) 
+Seat 7: wizardwerdna (1555 in chips) 
+Seat 8: schempy01 (1405 in chips) 
+Seat 9: acerupert (1325 in chips) 
+Mr3pair: posts small blind 15
+wizardwerdna: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wizardwerdna [6d 2d]
+schempy01: folds 
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: raises 60 to 90
+BadBeat_Brat: folds 
+Mr3pair: folds 
+wizardwerdna: folds 
+Uncalled bet (60) returned to Hoggsnake
+Hoggsnake collected 75 from pot
+Hoggsnake: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake collected (75)
+Seat 3: BadBeat_Brat (button) folded before Flop (didn't bet)
+Seat 6: Mr3pair (small blind) folded before Flop
+Seat 7: wizardwerdna (big blind) folded before Flop
+Seat 8: schempy01 folded before Flop (didn't bet)
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650947249: Tournament #117620218, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/10/31 17:46:16 ET
+Table '117620218 1' 9-max Seat #6 is the button
+Seat 1: Bear0930 (2715 in chips) 
+Seat 2: Hoggsnake (1740 in chips) 
+Seat 3: BadBeat_Brat (3390 in chips) 
+Seat 6: Mr3pair (1400 in chips) 
+Seat 7: wizardwerdna (1525 in chips) 
+Seat 8: schempy01 (1405 in chips) 
+Seat 9: acerupert (1325 in chips) 
+wizardwerdna: posts small blind 25
+schempy01: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wizardwerdna [5s Jc]
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: calls 50
+BadBeat_Brat: calls 50
+Mr3pair: calls 50
+wizardwerdna: calls 25
+schempy01: checks 
+*** FLOP *** [9h 6c Jd]
+wizardwerdna: checks 
+schempy01: checks 
+Hoggsnake: checks 
+BadBeat_Brat: checks 
+Mr3pair: checks 
+*** TURN *** [9h 6c Jd] [7h]
+wizardwerdna: checks 
+schempy01: checks 
+Hoggsnake: checks 
+BadBeat_Brat: checks 
+Mr3pair: checks 
+*** RIVER *** [9h 6c Jd 7h] [7c]
+wizardwerdna: checks 
+schempy01: checks 
+Hoggsnake: checks 
+BadBeat_Brat: checks 
+Mr3pair: checks 
+*** SHOW DOWN ***
+wizardwerdna: shows [5s Jc] (two pair, Jacks and Sevens)
+schempy01: mucks hand 
+Hoggsnake: mucks hand 
+BadBeat_Brat: mucks hand 
+Mr3pair: mucks hand 
+wizardwerdna collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [9h 6c Jd 7h 7c]
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake mucked [Ah 8h]
+Seat 3: BadBeat_Brat mucked [4h 4c]
+Seat 6: Mr3pair (button) mucked [5c 5h]
+Seat 7: wizardwerdna (small blind) showed [5s Jc] and won (250) with two pair, Jacks and Sevens
+Seat 8: schempy01 (big blind) mucked [Qh 5d]
+Seat 9: acerupert folded before Flop (didn't bet)
+
+
+
+PokerStars Game #21650993406: Tournament #117620218, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/10/31 17:48:07 ET
+Table '117620218 1' 9-max Seat #7 is the button
+Seat 1: Bear0930 (2715 in chips) 
+Seat 2: Hoggsnake (1690 in chips) 
+Seat 3: BadBeat_Brat (3340 in chips) 
+Seat 6: Mr3pair (1350 in chips) 
+Seat 7: wizardwerdna (1725 in chips) 
+Seat 8: schempy01 (1355 in chips) 
+Seat 9: acerupert (1325 in chips) 
+schempy01: posts small blind 25
+acerupert: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wizardwerdna [5c 4s]
+Bear0930: folds 
+Hoggsnake: calls 50
+BadBeat_Brat: folds 
+Mr3pair: folds 
+wizardwerdna: calls 50
+schempy01: raises 50 to 100
+acerupert: calls 50
+Hoggsnake: calls 50
+wizardwerdna: calls 50
+*** FLOP *** [2d 6s 6d]
+schempy01: bets 100
+acerupert: folds 
+Hoggsnake: calls 100
+wizardwerdna: folds 
+*** TURN *** [2d 6s 6d] [4c]
+schempy01: checks 
+Hoggsnake: bets 200
+schempy01: folds 
+Uncalled bet (200) returned to Hoggsnake
+Hoggsnake collected 600 from pot
+Hoggsnake: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [2d 6s 6d 4c]
+Seat 1: Bear0930 folded before Flop (didn't bet)
+Seat 2: Hoggsnake collected (600)
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna (button) folded on the Flop
+Seat 8: schempy01 (small blind) folded on the Turn
+Seat 9: acerupert (big blind) folded on the Flop
+
+
+
+PokerStars Game #21651020219: Tournament #117620218, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/10/31 17:49:12 ET
+Table '117620218 1' 9-max Seat #8 is the button
+Seat 1: Bear0930 (2715 in chips) 
+Seat 2: Hoggsnake (2090 in chips) 
+Seat 3: BadBeat_Brat (3340 in chips) 
+Seat 6: Mr3pair (1350 in chips) 
+Seat 7: wizardwerdna (1625 in chips) 
+Seat 8: schempy01 (1155 in chips) 
+Seat 9: acerupert (1225 in chips) 
+acerupert: posts small blind 25
+Bear0930: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wizardwerdna [3h 3d]
+Hoggsnake: calls 50
+BadBeat_Brat: folds 
+Mr3pair: folds 
+wizardwerdna: raises 100 to 150
+schempy01: calls 150
+acerupert: folds 
+Bear0930: folds 
+Hoggsnake: calls 100
+*** FLOP *** [Qh Ks Kc]
+Hoggsnake: checks 
+wizardwerdna: bets 350
+schempy01: calls 350
+Hoggsnake: folds 
+*** TURN *** [Qh Ks Kc] [Jc]
+wizardwerdna: checks 
+schempy01: bets 100
+wizardwerdna: folds 
+Uncalled bet (100) returned to schempy01
+schempy01 collected 1225 from pot
+*** SUMMARY ***
+Total pot 1225 | Rake 0 
+Board [Qh Ks Kc Jc]
+Seat 1: Bear0930 (big blind) folded before Flop
+Seat 2: Hoggsnake folded on the Flop
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded on the Turn
+Seat 8: schempy01 (button) collected (1225)
+Seat 9: acerupert (small blind) folded before Flop
+
+
+
+PokerStars Game #21651050535: Tournament #117620218, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/10/31 17:50:25 ET
+Table '117620218 1' 9-max Seat #9 is the button
+Seat 1: Bear0930 (2665 in chips) 
+Seat 2: Hoggsnake (1940 in chips) 
+Seat 3: BadBeat_Brat (3340 in chips) 
+Seat 6: Mr3pair (1350 in chips) 
+Seat 7: wizardwerdna (1125 in chips) 
+Seat 8: schempy01 (1880 in chips) 
+Seat 9: acerupert (1200 in chips) 
+Bear0930: posts small blind 25
+Hoggsnake: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wizardwerdna [4h Qh]
+BadBeat_Brat: folds 
+Mr3pair: folds 
+wizardwerdna: folds 
+schempy01: folds 
+acerupert: raises 150 to 200
+Bear0930: folds 
+Hoggsnake: folds 
+Uncalled bet (150) returned to acerupert
+acerupert collected 125 from pot
+acerupert: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: Bear0930 (small blind) folded before Flop
+Seat 2: Hoggsnake (big blind) folded before Flop
+Seat 3: BadBeat_Brat folded before Flop (didn't bet)
+Seat 6: Mr3pair folded before Flop (didn't bet)
+Seat 7: wizardwerdna folded before Flop (didn't bet)
+Seat 8: schempy01 folded before Flop (didn't bet)
+Seat 9: acerupert (button) collected (125)
+
+
+
