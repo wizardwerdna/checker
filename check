@@ -121,6 +121,7 @@ end
 # end
 # 
 def newpsfiles(user, time)
+  puts "newpsfiles(#{user}, #{time})"
   Dir["/Users/#{user}/Library/Application Support/PokerStars/HandHistory/**/*"].select{|each| File.mtime(each) > time}
 end
 
